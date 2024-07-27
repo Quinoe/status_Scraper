@@ -6,7 +6,7 @@ dns.setDefaultResultOrder('ipv4first');
 // Function to fetch CPE list from the given URL
 async function fetchCpeList() {
     try {
-        const response = await fetch('http://localhost:8000/api/trpc/cpe.get', { method: 'GET' });
+        const response = await fetch('https://dionaditya-monitoring-22.deno.dev/api/trpc/cpe.get', { method: 'GET' });
         const data = await response.json();
         return data; // Assuming the response is an array of objects with 'ip' properties
     } catch (error) {
