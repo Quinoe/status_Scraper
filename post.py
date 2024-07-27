@@ -14,7 +14,7 @@ args = parser.parse_args()
 def post_data():
     try:
         # URL to send the JSON data to
-        url = 'http://localhost:8000/api/trpc/cpe_status.update'
+        url = 'https://dionaditya-monitoring-22.deno.dev/api/trpc/cpe_status.update'
 
             
         # Open and read the JSON file
