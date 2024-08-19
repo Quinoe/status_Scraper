@@ -1,0 +1,445 @@
+**************[2J[1;1H
+JATIM-DESA.GADON-ZYXEL.MGS3520-CPE-01>sh int bri
+Port    Desc   Link shutdn Speed         Pri PVID Mode TagVlan                                                                 UtVlan
+e0/0/1  [01000 up   false  auto-f1000    0   1    trk  13,1132,1668,2808,3060,3081                                             1
+        038598                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015439                                                                                                                 
+        3 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Ba                                                                                                                 
+        lai De                                                                                                                 
+        sa Gad                                                                                                                 
+        on Tam                                                                                                                 
+        bakboy                                                                                                                 
+        o Kabu                                                                                                                 
+        paten                                                                                                                  
+        Tuban                                                                                                                  
+        [172.2                                                                                                                 
+        5.143.                                                                                                                 
+        117/29                                                                                                                 
+        ]                                                                                                                      
+e0/0/2  [01000 up   false  auto-f1000    0   1    trk  16,1132,2808,3060                                                       1
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        158917                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015491                                                                                                                 
+        8 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Ba                                                                                                                 
+        lai De                                                                                                                 
+        sa Sid                                                                                                                 
+        omulyo                                                                                                                 
+         [NMS                                                                                                                  
+        172.25                                                                                                                 
+        .159.8                                                                                                                 
+        3/29]                                                                                                                  
+e0/0/3  010000 up   false  auto-f1000    0   1    trk  14,433,3829                                                             1
+        37030                                                                                                                  
+        Metro;                                                                                                                 
+         04000                                                                                                                 
+        351649                                                                                                                 
+         Inter                                                                                                                 
+        net PT                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K         Telko                                                                                                                 
+        m Holc                                                                                                                 
+        im Cem                                                                                                                 
+        ent Pl                                                                                                                 
+        ant Tu                                                                                                                 
+        ban [N                                                                                                                 
+        MS 172                                                                                                                 
+        .25.14                                                                                                                 
+        8.187]                                                                                                                 
+e0/0/4  NMS Ek up   false  auto-f100     0   71   acc                                                                          71
+        sterna                                                                                                                 
+        l Alar                                                                                                                 
+        m Ds.                                                                                                                  
+        Gadon                                                                                                                  
+        [172.2                                                                                                                 
+        5.131.                                                                                                                 
+        210/29                                                                                                                 
+        ]                                                                                                                      
+e0/0/5  [04000 up   false  auto-f1000    0   1    trk  13,1132,2808,2882,3060,3081                                             1
+        138197                                                                                                                 
+         Inter                                                                                                                 
+        net Br                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        oadban                                                                                                                 
+        d][010                                                                                                                 
+        000764                                                                                                                 
+        18 Met                                                                                                                 
+        ro] Ke                                                                                                                 
+        camata                                                                                                                 
+        n Tamb                                                                                                                 
+        akboyo                                                                                                                 
+         [172.                                                                                                                 
+        25.151                                                                                                                 
+        .106]                                                                                                                  
+e0/0/6  [01000 up   false  auto-f1000    0   1    trk  13,1132,2808,3060                                                       1
+        040630                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015439                                                                                                                 
+        4 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Be                                                                                                                 
+        ndahar                                                                                                                 
+        a Desa                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K         Klutu                                                                                                                 
+        k [NMS                                                                                                                 
+         172.2                                                                                                                 
+        5.143.                                                                                                                 
+        18/29]                                                                                                                 
+e0/0/7  [01000 up   false  auto-f1000    0   1    trk  20,1132,2808,2883,3060,3081                                             1
+        039373                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015439                                                                                                                 
+        8 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Ba                                                                                                                 
+        lai De                                                                                                                 
+        sa Tam                                                                                                                 
+        bak Bo                                                                                                                 
+        yo Kab                                                                                                                 
+        .Tuban                                                                                                                 
+         [172.                                                                                                                 
+        28.66.                                                                                                                 
+        107/28                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        ]                                                                                                                      
+e0/0/8  [01000 up   false  auto-f1000    0   1    trk  13,1132,1667,2808,3060,3081                                             1
+        038603                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015439                                                                                                                 
+        6 IB]                                                                                                                  
+        Bendah                                                                                                                 
+        ara De                                                                                                                 
+        sa Pab                                                                                                                 
+        eyan D                                                                                                                 
+        esa Pa                                                                                                                 
+        beyan                                                                                                                  
+        Kec.Ta                                                                                                                 
+        mbakbo                                                                                                                 
+        yo Tub                                                                                                                 
+        an [NM                                                                                                                 
+        S 172.                                                                                                                 
+        25.150                                                                                                                 
+        .134/2                                                                                                                 
+        9]                                                                                                                     
+e0/0/9  [01000 up   false  auto-f1000    0   1    trk  13,1132,2808,3060                                                       1
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        190278                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015493                                                                                                                 
+        8 IBC]                                                                                                                 
+         Balai                                                                                                                 
+         Desa                                                                                                                  
+        Puloge                                                                                                                 
+        de Kec                                                                                                                 
+        amatan                                                                                                                 
+         Tamba                                                                                                                 
+        kboyo                                                                                                                  
+        Kabupa                                                                                                                 
+        ten Tu                                                                                                                 
+        ban [N                                                                                                                 
+        MS 172                                                                                                                 
+        .25.15                                                                                                                 
+        0.133/                                                                                                                 
+        29]                                                                                                                    
+e0/0/10 040001 up   false  auto-f1000    0   1    trk  20,1132,2808,3060                                                       1
+        54400                                                                                                                  
+        IBB;01                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        000038                                                                                                                 
+        607 Me                                                                                                                 
+        tro] B                                                                                                                 
+        endaha                                                                                                                 
+        ra Des                                                                                                                 
+        a Kena                                                                                                                 
+        nti[17                                                                                                                 
+        2.28.6                                                                                                                 
+        6.105/                                                                                                                 
+        28                                                                                                                     
+e0/0/11 #NMV1W up   false  auto-f1000    0   1    trk  3,20,1132,2808,3060                                                     1
+        J [010                                                                                                                 
+        000387                                                                                                                 
+        30 Met                                                                                                                 
+        ro][04                                                                                                                 
+        000154                                                                                                                 
+        941 In                                                                                                                 
+        ternet                                                                                                                 
+         Broad                                                                                                                 
+        band]                                                                                                                  
+        Balai                                                                                                                  
+        Desa S                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        obonto                                                                                                                 
+        ro [NM                                                                                                                 
+        S 172.                                                                                                                 
+        28.66.                                                                                                                 
+        103/28                                                                                                                 
+        ]                                                                                                                      
+e0/0/12 040000 up   false  auto-f1000    0   1    trk  13-14,1132,1667-1668,2808-2809,3060                                     1
+        10403;                                                                                                                 
+        010000                                                                                                                 
+        40065;                                                                                                                 
+        040001                                                                                                                 
+        54924;                                                                                                                 
+        040001                                                                                                                 
+        54404                                                                                                                  
+         Benda                                                                                                                 
+        hara D                                                                                                                 
+        s. Glo                                                                                                                 
+        ndongg                                                                                                                 
+        ede [D                                                                                                                 
+        HCP 10                                                                                                                 
+        3.110.                                                                                                                 
+        88.250                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        ]172.2                                                                                                                 
+        8.71.1                                                                                                                 
+        38]                                                                                                                    
+e0/0/13 [01000 up   false  auto-f1000    0   1    trk  13,20,1132,2808,2883,3060                                               1
+        040591                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015439                                                                                                                 
+        9 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Ba                                                                                                                 
+        lai De                                                                                                                 
+        sa Das                                                                                                                 
+        in [NM                                                                                                                 
+        S 172.                                                                                                                 
+        28.66.                                                                                                                 
+        106/28                                                                                                                 
+        ]                                                                                                                      
+e0/0/14 [01000 up   false  auto-f1000    0   1    trk  14,20,1130,1132,2808,3060                                               1
+        040561                                                                                                                 
+         Metro                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        ][0400                                                                                                                 
+        015440                                                                                                                 
+        1 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Be                                                                                                                 
+        ndahar                                                                                                                 
+        a Desa                                                                                                                 
+         Sawir                                                                                                                 
+         [NMS                                                                                                                  
+        172.28                                                                                                                 
+        .71.14                                                                                                                 
+        0/29]                                                                                                                  
+e0/0/15 [01000 up   false  auto-f1000    0   1    trk  13-14,1130,1132,2808,3060                                               1
+        040072                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015440                                                                                                                 
+        3 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Ba                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        lai De                                                                                                                 
+        sa Mer                                                                                                                 
+        kawang                                                                                                                 
+         Tamba                                                                                                                 
+        kboyo                                                                                                                  
+        Kabupa                                                                                                                 
+        ten Tu                                                                                                                 
+        ban [S                                                                                                                 
+        2700 1                                                                                                                 
+        72.25.                                                                                                                 
+        143.20                                                                                                                 
+        /29]                                                                                                                   
+e0/0/16 [01000 up   false  auto-f1000    0   1    trk  20,1132,2808-2809,3060                                                  1
+        040699                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015610                                                                                                                 
+        4 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Ba                                                                                                                 
+        lai De                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        sa Cok                                                                                                                 
+        rowati                                                                                                                 
+         [NMS                                                                                                                  
+        172.28                                                                                                                 
+        .66.10                                                                                                                 
+        4/28]                                                                                                                  
+e0/0/17 [04000 up   false  auto-f1000    0   1    trk  14,1132,1676,2808,3060,3081                                             1
+        010427                                                                                                                 
+         Inter                                                                                                                 
+        net][0                                                                                                                 
+        100004                                                                                                                 
+        0885 M                                                                                                                 
+        etro][                                                                                                                 
+        040001                                                                                                                 
+        54389                                                                                                                  
+        IBB] B                                                                                                                 
+        endaha                                                                                                                 
+        ra Des                                                                                                                 
+        a Diki                                                                                                                 
+        r [S27                                                                                                                 
+        00 172                                                                                                                 
+        .25.14                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        3.203/                                                                                                                 
+        29]                                                                                                                    
+e0/0/18 [01000 up   false  auto-f1000    0   1    trk  14,1130,1132,2808,3060,3081                                             1
+        040845                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015439                                                                                                                 
+        0 IB]                                                                                                                  
+        Bend.D                                                                                                                 
+        esa Pl                                                                                                                 
+        ajan K                                                                                                                 
+        ec.Tam                                                                                                                 
+        bakboy                                                                                                                 
+        o Tuba                                                                                                                 
+        n JATI                                                                                                                 
+        M [172                                                                                                                 
+        .25.14                                                                                                                 
+        3.204/                                                                                                                 
+        29]                                                                                                                    
+e0/0/19 [01000 up   false  auto-f1000    0   1    trk  14,1132,2808,3060                                                       1
+        040835                                                                                                                 
+         Metro                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        ][0400                                                                                                                 
+        015440                                                                                                                 
+        5 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Ba                                                                                                                 
+        lai De                                                                                                                 
+        sa Man                                                                                                                 
+        der [N                                                                                                                 
+        MS 172                                                                                                                 
+        .28.71                                                                                                                 
+        .139/2                                                                                                                 
+        9]                                                                                                                     
+e0/0/20 [01000 up   false  auto-f1000    0   1    trk  14,1132,2808,3060                                                       1
+        040822                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015440                                                                                                                 
+        6 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Ba                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        lai De                                                                                                                 
+        sa Bel                                                                                                                 
+        ikange                                                                                                                 
+        t Tamb                                                                                                                 
+        akboyo                                                                                                                 
+         Kabup                                                                                                                 
+        aten T                                                                                                                 
+        uban [                                                                                                                 
+        172.25                                                                                                                 
+        .143.2                                                                                                                 
+        06/29]                                                                                                                 
+e0/0/21 [01000 up   false  auto-f1000    0   1    trk  13,1132,2808,3060                                                       1
+        040639                                                                                                                 
+         Metro                                                                                                                 
+        ][0400                                                                                                                 
+        015439                                                                                                                 
+        2 Inte                                                                                                                 
+        rnet B                                                                                                                 
+        roadba                                                                                                                 
+        nd] Ba                                                                                                                 
+        lai De                                                                                                                 
+        sa Sot                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        ang Ke                                                                                                                 
+        c Tamb                                                                                                                 
+        akboyo                                                                                                                 
+         [NMS                                                                                                                  
+        172.25                                                                                                                 
+        .143.2                                                                                                                 
+        6/29]                                                                                                                  
+e0/0/22 040001 up   false  auto-f1000    0   1    trk  13,20,1132,2808,3060,3081                                               1
+        54917                                                                                                                  
+        IBB;01                                                                                                                 
+        000045                                                                                                                 
+        719 Me                                                                                                                 
+        tro Be                                                                                                                 
+        ndahar                                                                                                                 
+        a Desa                                                                                                                 
+         Margo                                                                                                                 
+        suko [                                                                                                                 
+        NMS 17                                                                                                                 
+        2.28.7                                                                                                                 
+        1.150/                                                                                                                 
+        28]                                                                                                                    
+e0/0/23 010000 up   false  auto-f1000    0   1    trk  13,1132,2808,3060,3081                                                  1
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        45716                                                                                                                  
+        Metro;                                                                                                                 
+        040001                                                                                                                 
+        54916                                                                                                                  
+        IB Ben                                                                                                                 
+        dahara                                                                                                                 
+         Desa                                                                                                                  
+        Cingkl                                                                                                                 
+        ung [N                                                                                                                 
+        MS 172                                                                                                                 
+        .25.14                                                                                                                 
+        4.205]                                                                                                                 
+e0/0/24 Trunk  up   false  auto-f1000    0   1    trk  all                                                                     1
+        to JAT                                                                                                                 
+        IM-GAD                                                                                                                 
+        ON-ASR                                                                                                                 
+        920-UP                                                                                                                 
+        E-01                                                                                                                   
+e0/0/25 Trunk  down false  f10000        0   1    trk  all                                                                     1
+        to JAT                                                                                                                 
+        IM-DES                                                                                                                 
+        A.BANC                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        AR-ZYX                                                                                                                 
+        EL.MGS                                                                                                                 
+        3520-C                                                                                                                 
+        PE-01                                                                                                                  
+e0/0/26 010001 up   false  f1000-f1000   0   1    trk  20,1500                                                                 1
+        91667                                                                                                                  
+        Hipern                                                                                                                 
+        et - S                                                                                                                 
+        MKN 1                                                                                                                  
+        Tambak                                                                                                                 
+        boyo,                                                                                                                  
+        Merkaw                                                                                                                 
+        ang No                                                                                                                 
+        .9, Sa                                                                                                                 
+        wir, K                                                                                                                 
+        ec. Ta                                                                                                                 
+        mbakbo                                                                                                                 
+        yo, Ka                                                                                                                 
+        bupate                                                                                                                 
+        n Tuba                                                                                                                 
+        n [172                                                                                                                 
+        .28.71                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        .147/2                                                                                                                 
+        8]                                                                                                                     
+e0/0/27        down true   f1000         0   1    hyb                                                                          1
+e0/0/28 #MRWNY up   false  f1000-f1000   0   1    trk  14,1132,2808,3060                                                       1
+        Q 0100                                                                                                                 
+        035452                                                                                                                 
+        9 Metr                                                                                                                 
+        o; 040                                                                                                                 
+        003545                                                                                                                 
+        54 IBB                                                                                                                 
+        C Disk                                                                                                                 
+        ominfo                                                                                                                 
+        san Ka                                                                                                                 
+        b.Tuba                                                                                                                 
+        n Pusk                                                                                                                 
+        esmas                                                                                                                  
+        Tambak                                                                                                                 
+        boyo [                                                                                                                 
+        NMS 17                                                                                                                 
+        2.25.1                                                                                                                 
+        57.90/                                                                                                                 
+        29]                                                                                                                    
+Total entries: 28 .
+
+JATIM-DESA.GADON-ZYXEL.MGS3520-CPE-01>

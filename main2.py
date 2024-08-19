@@ -1,11 +1,23 @@
 import paramiko
 import argparse
+import time
+
+
 
 parser = argparse.ArgumentParser(description='Process IP address.')
     
 # Add the --ip argument
 parser.add_argument('--ip', required=True, help='IP address to process')
     
+# Add the --username argument
+parser.add_argument('--username', required=True, help='Username for authentication')
+
+# Add the --password argument
+parser.add_argument('--password', required=True, help='Password for authentication')
+
+# Add the --custom-command argument
+parser.add_argument('--cmd', required=False, help='Custom command to execute')
+
  # Parse the arguments
 args = parser.parse_args()
     
@@ -25,8 +37,12 @@ def ssh_connect_and_run_command(hostname, port, username, password, command):
         
         # Local bash file
         local_temp_file_path = 'exe'
-        remote_temp_file_path = '/tmp/temp4'  # Path on the remote server
+        # Get the current time as a timestamp (seconds since the epoch)
+        timestamp = time.time()
+        remote_temp_file_path = f"/tmp/tmp-{timestamp}"  # Path on the remote server
 
+        stdin, stdout, stderr = ssh.exec_command("rm -rfv /tmp/tmp-*")
+        
         # Upload the file via SFTP
         print(f"Uploading {local_temp_file_path} to {remote_temp_file_path}...")
         sftp.put(local_temp_file_path, remote_temp_file_path)
@@ -34,7 +50,7 @@ def ssh_connect_and_run_command(hostname, port, username, password, command):
         # Write the commands to execute
         commands = [
             f'chmod +x {remote_temp_file_path}',
-            f'{remote_temp_file_path} -address="{args.ip}" -user="deddy.handoko" -pass="Nofraud24!" -cmd="show interfaces description"',
+            f'{remote_temp_file_path} -address="{args.ip}" -user="{args.username}" -pass="{args.password}" -cmd="{args.cmd}"',
             f'rm {remote_temp_file_path}',
         ]
 

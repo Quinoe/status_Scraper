@@ -1,0 +1,198 @@
+[
+  {
+    "interface": "Vl1",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Vl14",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS Monitoring",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/1",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/2",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "## PORT RUSAK ##",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/3",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/4",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/5",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000009522 IPVPN PLN Disjatim UPJ Maospati",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/6",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/7",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/8",
+    "status": "up",
+    "protocol": "up",
+    "description": "0990000320514162 IPVPN DISJATIM APJ-MADIUN& UPJ Madiun Kota",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/9",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/10",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/11",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/12",
+    "status": "up",
+    "protocol": "up",
+    "description": "[01000014956 Metro][02000014957 Silver] 100 KCP Madiun, Jl. Jend. Sudirman No. 23,Geger",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/13",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/14",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/15",
+    "status": "up",
+    "protocol": "up",
+    "description": "0990000320462205 IPVPN BCA KCU Madiun (MUN) [112016]",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/16",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/17",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/18",
+    "status": "up",
+    "protocol": "up",
+    "description": "VPN Call Center UBM Area Madiun",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/19",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/20",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/21",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/22",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS Telways Madiun ###192.168.28.84###",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/23",
+    "status": "down",
+    "protocol": "down",
+    "description": "150000002240006 IPVPN SFI Madiun",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Fa0/24",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Gi0/1",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.70"
+  },
+  {
+    "interface": "Gi0/2",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk to JATIM-MADIUN-ASR920-UPE-01",
+    "ip": "192.168.28.70"
+  }
+]

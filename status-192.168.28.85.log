@@ -1,0 +1,34 @@
+
+
+JATIM-MADIUN-C2960-CPE-02#show interface description
+Interface                      Status         Protocol Description
+Vl1                            admin down     down     
+Vl14                           up             up       NMS Monitoring
+Vl658                          up             up       
+Fa0/1                          down           down     NMS ECI Madiun (GNE)
+Fa0/2                          admin down     down     
+Fa0/3                          up             up       20150513/ORD/95 NMS Hariff Madiun APJ [NMS: 172.25.95.186/29]
+Fa0/4                          admin down     down     
+Fa0/5                          admin down     down     
+Fa0/6                          admin down     down     
+Fa0/7                          admin down     down     
+Fa0/8                          admin down     down     
+Fa0/9                          down           down     0990000320269037 Metro PT Jolo Sejahtera Madiun - AI Jakarta
+Fa0/10                         down           down     Telicon AP Madiun
+Fa0/11                         up             up       0990000020268199 Metronet Astra Internasional T472 Jl. Hoscokroaminoto No. 47
+Fa0/12                         admin down     down     
+Fa0/13                         down           down     INET PLN APJ MADIUN [TEMPORER]
+Fa0/14                         up             up       0990000320383533 Metro BTPN P2MP 0021 KC MADIUN
+Fa0/15                         admin down     down     
+Fa0/16                         admin down     down     
+Fa0/17                         up             up       0990000320499669 IPVPN Dispenda Jatim SAMSAT MADIUN KOTA, Jl. Serayu Madiun
+Fa0/18                         admin down     down     
+Fa0/19                         up             up       
+Fa0/20                         up             up       01000134747 IPVPN BRI Teras Pasar Maospati Magetan
+Fa0/21                         admin down     down     
+Fa0/22                         admin down     down     
+Fa0/23                         admin down     down     
+Fa0/24                         admin down     down     
+Gi0/1                          admin down     down     
+Gi0/2                          up             up       Trunk to JATIM-MADIUN-ASR920-UPE-01
+JATIM-MADIUN-C2960-CPE-02#

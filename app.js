@@ -17,61 +17,70 @@ async function fetchCpeList() {
 
 
 // Function to run the Python and Node.js scripts
-function runScripts(ip) {
+function runScripts(item) {
     return new Promise((res) => {
         // Run the Python script
-        exec(`python main2.py --ip=${ip}`, (error, stdout, stderr) => {
+        exec(`python main2.py --ip=${item.ip} --username=${item.username} --password=${item.password} --cmd="${item.command}"`, (error, stdout, stderr) => {
             if (error) {
-                console.error(`Error running Python script for IP ${ip}:`, error);
+                console.error(`Error running Python script for IP ${item.ip}:`, error);
                 return;
             }
-            console.log(`scraping data for IP ${ip}:`, stdout);
+            console.log(`scraping data for IP ${item.ip}:`, stdout);
 
             // Run the Node.js script
-            exec(`node table-extract.js --ip=${ip}`, (error, stdout, stderr) => {
+            exec(`node table-extract.js --ip=${item.ip}`, (error, stdout, stderr) => {
                 if (error) {
-                    console.error(`Error running Node.js script for IP ${ip}:`, error);
+                    console.error(`Error running Node.js script for IP ${item.ip}:`, error);
                     return;
                 }
-                console.log(`processing data for IP ${ip}:`, stdout);
+                console.log(`processing data for IP ${item.ip}:`, stdout);
 
-                exec(`python post.py --ip=${ip}`, (error, stdout, stderr) => {
+                exec(`python post.py --ip=${item.ip}`, (error, stdout, stderr) => {
                     if (error) {
-                        console.error(`Error running Node.js script for IP ${ip}:`, error);
+                        console.error(`Error running Node.js script for IP ${item.ip}:`, error);
                         return;
                     }
                     res(true)
-                    console.log(`updating data for IP ${ip}:`, stdout);
+                    console.log(`updating data for IP ${item.ip}:`, stdout);
                 });
             });
         });
     })
-
-
-
-
-
 }
 
-// Schedule a task to run every 3 minutes
-cron.schedule('*/0.1 * * * *', async () => {
-    console.log('Starting new task - Fetching CPE list...');
-    const cpeList = await fetchCpeList();
-    console.log('Fetched CPE list:', cpeList);
+let isRunning = false 
 
-    // Run the scripts for each IP in series
-    for (const item of cpeList.result.data) {
-        if (item.ip) {
-            console.log('Running script for IP ' + item.ip);
-            try {
-                await runScripts(item.ip);
-            } catch (error) {
-                console.error(`Error processing IP ${item.ip}:`, error);
-            }
-        } else {
-            console.warn('No IP found for item:', item);
-        }
+// Schedule a task to run every 3 minutes
+cron.schedule('*/2 * * * *', async () => {
+    if (isRunning) {
+        console.log('Previous task is still running. Skipping this execution.');
+        return;
     }
+
+    try {
+        console.log('Starting new task - Fetching CPE list...');
+        const cpeList = await fetchCpeList();
+        console.log('Fetched CPE list:', cpeList);
+    
+        isRunning = true
+        // Run the scripts for each IP in series
+        for (const item of cpeList.result.data) {
+            if (item.ip) {
+                console.log('Running script for IP ' + item.ip);
+                try {
+                    await runScripts(item);
+                } catch (error) {
+                    console.error(`Error processing IP ${item.ip}:`, error);
+                }
+            } else {
+                console.warn('No IP found for item:', item);
+            }
+        }
+    } finally {
+        isRunning = false;
+        console.log('Task completed.');
+    }
+   
 });
 
 console.log('Cron job scheduled to run every 3 minutes.');

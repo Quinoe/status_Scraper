@@ -1,0 +1,542 @@
+[
+  {
+    "interface": "HGE1/0/49",
+    "link": "UP",
+    "speed": "100G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "Trunk To JATIM-SHELTER.UP",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "HGE1/0/50",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "HGE1/0/51",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "HGE1/0/52",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "HGE1/0/53",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "HGE1/0/54",
+    "link": "UP",
+    "speed": "100G(a)",
+    "duplex": "F(a) H",
+    "type": "H",
+    "pvid": "567",
+    "description": "141204000018 Metro QinQ K",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/1",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/2",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/3",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/4",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/5",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/6",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/7",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/8",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/9",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/10",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/11",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/12",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/13",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/14",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/15",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/16",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/17",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/18",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/19",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/20",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/21",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/22",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/23",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/24",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/25",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/26",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/27",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/28",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/29",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/30",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/31",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/32",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/33",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/34",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/35",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/36",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/37",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/38",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/39",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/40",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/41",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/42",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/43",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/44",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/45",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/46",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/47",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  },
+  {
+    "interface": "XGE1/0/48",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.27.99.170"
+  }
+]

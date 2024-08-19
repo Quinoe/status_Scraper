@@ -1,0 +1,205 @@
+[
+  {
+    "interface": "Vl1",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Vl14",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS Monitoring",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Vl658",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/1",
+    "status": "down",
+    "protocol": "down",
+    "description": "NMS ECI Madiun (GNE)",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/2",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/3",
+    "status": "up",
+    "protocol": "up",
+    "description": "20150513/ORD/95 NMS Hariff Madiun APJ [NMS: 172.25.95.186/29]",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/4",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/5",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/6",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/7",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/8",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/9",
+    "status": "down",
+    "protocol": "down",
+    "description": "0990000320269037 Metro PT Jolo Sejahtera Madiun - AI Jakarta",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/10",
+    "status": "down",
+    "protocol": "down",
+    "description": "Telicon AP Madiun",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/11",
+    "status": "up",
+    "protocol": "up",
+    "description": "0990000020268199 Metronet Astra Internasional T472 Jl. Hoscokroaminoto No. 47",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/12",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/13",
+    "status": "down",
+    "protocol": "down",
+    "description": "INET PLN APJ MADIUN [TEMPORER]",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/14",
+    "status": "up",
+    "protocol": "up",
+    "description": "0990000320383533 Metro BTPN P2MP 0021 KC MADIUN",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/15",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/16",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/17",
+    "status": "up",
+    "protocol": "up",
+    "description": "0990000320499669 IPVPN Dispenda Jatim SAMSAT MADIUN KOTA, Jl. Serayu Madiun",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/18",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/19",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/20",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000134747 IPVPN BRI Teras Pasar Maospati Magetan",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/21",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/22",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/23",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Fa0/24",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Gi0/1",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.28.85"
+  },
+  {
+    "interface": "Gi0/2",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk to JATIM-MADIUN-ASR920-UPE-01",
+    "ip": "192.168.28.85"
+  }
+]

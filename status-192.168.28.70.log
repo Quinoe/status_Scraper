@@ -1,0 +1,33 @@
+
+
+JATIM-MADIUN-C2950-CPE-01#show interface description
+Interface                      Status         Protocol Description
+Vl1                            admin down     down     
+Vl14                           up             up       NMS Monitoring
+Fa0/1                          admin down     down     
+Fa0/2                          admin down     down     ## PORT RUSAK ##
+Fa0/3                          admin down     down     
+Fa0/4                          admin down     down     
+Fa0/5                          up             up       01000009522 IPVPN PLN Disjatim UPJ Maospati
+Fa0/6                          admin down     down     
+Fa0/7                          admin down     down     
+Fa0/8                          up             up       0990000320514162 IPVPN DISJATIM APJ-MADIUN& UPJ Madiun Kota
+Fa0/9                          admin down     down     
+Fa0/10                         up             up       
+Fa0/11                         admin down     down     
+Fa0/12                         up             up       [01000014956 Metro][02000014957 Silver] 100 KCP Madiun, Jl. Jend. Sudirman No. 23,Geger
+Fa0/13                         admin down     down     
+Fa0/14                         admin down     down     
+Fa0/15                         up             up       0990000320462205 IPVPN BCA KCU Madiun (MUN) [112016]
+Fa0/16                         admin down     down     
+Fa0/17                         admin down     down     
+Fa0/18                         up             up       VPN Call Center UBM Area Madiun
+Fa0/19                         up             up       
+Fa0/20                         admin down     down     
+Fa0/21                         admin down     down     
+Fa0/22                         up             up       NMS Telways Madiun ###192.168.28.84###
+Fa0/23                         down           down     150000002240006 IPVPN SFI Madiun
+Fa0/24                         admin down     down     
+Gi0/1                          admin down     down     
+Gi0/2                          up             up       Trunk to JATIM-MADIUN-ASR920-UPE-01
+JATIM-MADIUN-C2950-CPE-01#

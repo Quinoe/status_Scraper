@@ -1,0 +1,72 @@
+
+************************************************************
+* THIS SYSTEM IS THE PROPERTY OF PT INDONESIA COMNETS PLUS *
+*              Maintenance Partner: niagamas               *
+*              Email: info@niagamas-setia.com              *
+************************************************************
+JATIM-APJ.MADIUN-BD.S2936F-CPE-02#sh int bri
+Port    Description           Status    Vlan        Duplex   Speed    Type
+g0/1                          shutdown  1           auto     auto     Giga-TX          
+g0/2                          up        Trunk(1)    full     1000Mb   Giga-TX          
+g0/3                          down      1           auto     auto     Giga-TX          
+g0/4                          down      1           auto     auto     Giga-TX          
+g0/5                          down      1           auto     auto     Giga-TX          
+g0/6                          down      1           auto     auto     Giga-TX          
+g0/7                          down      1           auto     auto     Giga-TX          
+g0/8                          down      1           auto     auto     Giga-TX          
+g0/9    01000129399 Metro PJB PLTA Sutami - PLTA Golang Area Kebun & Hutan Area Kabupaten Madiun [MS 172.26.167.53/27]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/10   01000129508 Metro PJB PLTA Sutami - PLTA Giringan Kabupaten Madiun [MS 172.26.167.54/27]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/11   01000144203 Metro Aplikanusa Lintasarta - Lanud Iswahjudi Madiun [NMS 172.28.67.23/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/12   "141202002630 Metro Inti Data Telemedia RSUD dr. Soedono Kartoharjo [Switch 172.28.94.165/27]"
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/13   04000154208 Internet Broadband Mandiri Utama Finance Kota Madiun [NMS 172.28.67.26/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/14   01000009522 IPVPN PLN Disjatim UPJ Maospati [NMS 172.28.72.50/28] [515050001019 Iconnet Sukron Mashudi 172.28.72.51/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/15   515010128436 Iconnet Aries Dwi Fatriyadi Jl. MT Haryono No 30 [NMS:172.28.72.52/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/16   121303001019 Internet,121401001074 IBBC Stasiun Madiun [NMS 172.28.94.171/27][IPV4 103.206.243.40/32]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/17   04000326827 IBBC 20Mbps PT. Internetwork Komunikasi Indonesia McD Sudirman Madiun [172.25.157.194/27]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/18   04000178451 Internet Broadband Erha Clinic Erha Skin Madiun [NMS 172.28.72.56/28]"
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/19                         shutdown  1           auto     auto     Giga-FX          
+g0/20   01000187427 IPVPN PT Prodia Widyahusada Jl. Sulawesi No. 9,Madiun[172.28.72.59/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/21   04000194563 Internet PT. Bukit Inti Makmur Abadi Depo Madiun [NMS 172.28.72.60/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/22                         shutdown  Trunk(1)    auto     auto     Giga-FX          
+g0/23   01000195476 Metro Qinq Media Lintas Data - KT&G Madiun  [NMS 172.28.72.60/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/24   01000205260 Metro BSI KC Madiun Kartoharjo, Jl. Auri Blok A No.1[172.28.80.178/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/25   04000211054 Internet Surya Anugerah Madiun [NMS 172.28.80.180/28] + 04000211056 IPv4 /29
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/26                         down      1           auto     auto     Giga-FX          
+g0/27   #BKCUM4 04000308457 Internet Broadband Mega Akses Persada - Bank BNI KCU Madiun Jl. DR. Sutomo No. 87 [172.28.80.181/28
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/28   04000333226 IBBC 50Mbps Kantor Pertahanan Kota Madiun, Jl. Dr. Soetomo No.11 [172.25.145.36/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/29   04000339333 IIX Indomarco Prismatama TVGF Jl Kompol Sunaryo Point Stasiun Madiun [NMS 172.28.80.186/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/30   01000343621 IPVPN BCA Finance Pertokoan Suncity Festival Ruko C2 [NMS 172.28.80.187/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/31   111302004133 Internet Corporate Lite Indomarco (JOMBANG)(T3J9)(PELITA TAMA MADIUN)[172.28.94.163/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/32   Trunk to JATIM-MADIUN-ASR920-UPE-01
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+tg0/1                         down      1           full     10000Mb  10Giga-FX        
+tg0/2                         down      1           full     10000Mb  10Giga-FX        
+tg0/3                         down      1           full     10000Mb  10Giga-FX        
+tg0/4   temporary.asr920.12x10g
+                              down      3           full     10000Mb  10Giga-FX        
+v1                            up                    
+v3      temporary.asr920.12x10g
+                              up                    
+v13                           up                    
+n0                            up                    
+JATIM-APJ.MADIUN-BD.S2936F-CPE-02#

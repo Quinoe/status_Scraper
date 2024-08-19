@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	timeout = 10 * time.Minute
+	timeout = 10 * time.Second
 )
 
 var (
@@ -22,9 +22,10 @@ var (
 	pass = flag.String("pass", "", "password to use")
 	cmd  = flag.String("cmd", "", "command to run")
 
-	userRE = regexp.MustCompile("Username:")
-	passRE = regexp.MustCompile("Password:")
-	table  = regexp.MustCompile("Interface")
+	userRE = regexp.MustCompile("(Username|Login)")
+	passRE = regexp.MustCompile("Password")
+	table  = regexp.MustCompile("(Interface|Port)")
+	moreRE = regexp.MustCompile("(More|more|press ENTER)")
 )
 
 type InterfaceStatus struct {
@@ -46,21 +47,44 @@ func main() {
 
 	e.Expect(userRE, timeout)
 
-	fmt.Println(user)
+	time.Sleep(10 * time.Second)
 
 	e.Send(*user + "\n")
+
+	fmt.Println("Send username succeed")
 
 	e.Expect(passRE, timeout)
 
 	e.Send(*pass + "\n")
 
-	time.Sleep(3 * time.Second)
+	fmt.Println("Send password succeed")
+
+	time.Sleep(10 * time.Second)
 
 	e.Send(*cmd + "\n")
 
-	time.Sleep(3 * time.Second)
+	time.Sleep(10 * time.Second)
 
-	result, _, _ := e.Expect(table, timeout)
+	var result string
+
+	for {
+
+		re, _, _ := e.Expect(table, timeout)
+
+		result += re
+
+		fmt.Println("test table")
+
+		// Check if there's still more data to fetch
+		if moreRE.MatchString(re) {
+			e.Send(" ") // Send a space to continue output if "More" is detected
+		} else {
+			break // Break the loop if no "More" prompt is found
+		}
+	}
+
+	e.Send("exit\n")
+
 	e.Send("exit\n")
 
 	fmt.Println(term.Greenf("%s: result: %s\n", *cmd, result))
