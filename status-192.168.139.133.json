@@ -1,0 +1,1059 @@
+[
+  {
+    "interface": "Gi0/0/0",
+    "status": "down",
+    "protocol": "down",
+    "description": "141303002163 Internet Jasamarga Ngawi Kertosono Kediri Plaza, Gerbang Tol Madiun [MAIN] [SW 172.27.101.222/30]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/1",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk to JATIM-UPJ.CARUBAN-ZYXEL.MGS3520-CPE-02 [172.25.151.202/29]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/2",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/3",
+    "status": "down",
+    "protocol": "down",
+    "description": "04000155086 Internet Giga Patra Multimedia Matok'an RT 002/001 Dsn. Gosong Ds. Durenan Germarang Kabupaten Madiun",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/4",
+    "status": "up",
+    "protocol": "up",
+    "description": "121303001291 Internet KAI Stasiun Caruban [NMS Switch 172.28.91.36/27][IPV4 103.206.241.104/32]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/5",
+    "status": "up",
+    "protocol": "up",
+    "description": "141202002576 Metro Intidata Media Indonesia Jl. Banjar, Kadung, Sambongrejo",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/6",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk To JATIM-PLTA.GOLANG-S2700-CPE-01",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/7",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk To JATIM-PLTA.GIRINGAN-S2700-CPE-01",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/8",
+    "status": "up",
+    "protocol": "up",
+    "description": "111202018655 Mora Telematika Indonesia JIX Jogja - Universitas Sebelas Maret Kampus SV Madiun",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/9",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/10",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/11",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/12",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/13",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/14",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/15",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/16",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/17",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/18",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/19",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/20",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/21",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk to JATIM-KEDUNGBANTENG-RC-OLT-01",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/22",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk to JATIM-AREA.KALIABU-RC-OLT-01",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0/0/23",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk to JATIM-UPJ.CARUBAN-BD.S2936F-CPE-03",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Te0/0/24",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Te0/0/25",
+    "status": "up",
+    "protocol": "up",
+    "description": "Link to JATIM-ULP.CARUBAN-NE8000.M14-UPE-01_Ge0/3/0",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Te0/0/26",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk to JATIM-PURWOSARI.CARUBAN-RC-OLT-02",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Te0/0/27",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk To JATIM-PURWOSARI.CARUBAN-MA5801-OLT-01 [172.29.118.242/29]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Gi0",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD4",
+    "status": "up",
+    "protocol": "up",
+    "description": "010000028240167 IPVPN PLN Disjatim UPJ Caruban",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD13",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS Switch",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD14",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS Switch",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD25",
+    "status": "down",
+    "protocol": "down",
+    "description": "010000016240004 IPVPN PJB PLTA Giringan",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD27",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000133605 IPVPN Kementrian PUPR Ditjen Sumber Daya Air Direkotorat BIna Operasi dan Pemeliharaan Bendungan Notopuro [NMS 172.28.70.246/28]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD29",
+    "status": "up",
+    "protocol": "up",
+    "description": "140000008240558 IPVPN BRI Teras Pasar Sembung Talok Karangjati Ngawi",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD35",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000094762 IPVPN Bank BNI (E-Toll) Gerbang Tol Caruban Kasutan Madiun Jawa timur",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD36",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000318796 IPVPN Bank Mandiri KCP Madiun Caruban Jl. Ahmad Yani No. 43",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD37",
+    "status": "down",
+    "protocol": "down",
+    "description": "04000155086 Internet Giga Patra Multimedia Matok'an RT 002/001 Dsn. Gosong Ds. Durenan Germarang Kabupaten Madiun",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD39",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000188107 IPVPN PLN UID JATIM SPKLU PLN REST AREA 626 A Jl Tol Solo Kertosono Saradan [NMS 172.28.70.250/28]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD43",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000297117 IIX Indomarco (JOMBANG)(T04V)(KEDUNGGLAGAH KWADUNGAN/004) Ngawi [NMS 172.28.70.254/28]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD47",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000297121 IIX Indomarco (JOMBANG)(TMFQ)(SAMBIROTO/004) [NMS 172.28.81.130/28]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD49",
+    "status": "up",
+    "protocol": "up",
+    "description": "0990000320499480 IPVPN BCA KCP Caruban Mejayan Jatim (032017)[sop ext2Mbps]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD50",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS#2",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD51",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS#3",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD60",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS MAF Madiun",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD71",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS EA Open Area Caruban [172.30.51.170/29]; BALAI_DESA_PURWOSARI_CARUBAN [172.30.51.202/29]; GI Caruban PLC [172.30.53.226/29]; GI GIRINGAN [172.30.53.2/29]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD80",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000030672 IPVPN SCADA Premium PT PLN GI CARUBAN Main [NMS 172.28.70.246/28]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD85",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000130752 Telicon Premium PLN PJB Control Room PLTA Giringan",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD91",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000038401 IPVPN PLN UP2D JATIM Repeater Gemarang [NMS:172.25.149.186/29]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD97",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000130754 Telicon Premium PLN PJB Control Room PLTA Golang [No Telicon : 83330]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD105",
+    "status": "up",
+    "protocol": "up",
+    "description": "[04000092288 Internet] [04000094143 IPv4 /29] SMKN Kare Jl. Raya Kare kepak Morang Morang Kare kabupaten Madiun [IP NMS : 172.25.151.204/29]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD130",
+    "status": "up",
+    "protocol": "up",
+    "description": "0990000320499735 IPVPN BADAN PENDAPATAN DAERAH PROVINSI JAWA TIMUR Payment Point Caruban, Jalan Madiun-Surabaya Balerejo Caruban",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD135",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000324206 IIX Only Indomarco Prismatama-(JOMBANG)(FXD6)(RAYA KWADUNGAN) JL. RAYA KWADUNGAN, Ngawi",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD138",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000091818 IPVPN Kementrian PUPR Dan Ditjen SDA Bendungan Dawuhan - Desa Sido Mulyo Kec Wono Asri",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD139",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000091824 IPVPN Kementrian PUPR Dan Ditjen SDA Bendungan Saradan - Desa Sugih Waras Kec Saradan",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD177",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000050157 IIX only PT Modul Intracs Yasatama Gerbang Tol Caruban Kasutan Kuwu Balarejo Kota Madiun JATIM [NMS 172.25.148.107/29]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD187",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000121028 Internet Corporate Global Way Indonesia Pilangkenceng, Kabupaten Madiun [04000121030 IPv4 /28]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD200",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000178185 IPVPN Sumber Alfaria Trijaya O333 Sambiroto Ngawi",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD218",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000109839 IPVPN Sumber Alfaria Trijaya 2A43 Kowang F [KOAM] [SDWAN]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD219",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000109832 IPVPN Sumber Alfaria Trijaya 2A54 Desa Garon",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD222",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000109840 IPVPN PT.SUMBER ALFARIA TRIJAYA 2AG8 JERUK GULUNG KAB.MADIUN NMS HP",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD228",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000344887 IIX Only Indomarco Prismatama Jombang FZ7C Jl. Raya Ngawi Caruban [NMS 172.28.91.53/27]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD261",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000091666 IPVPN Kementrian PUPR Dan Dirjen SDA Bendungan Kedung Brubus - Desa Duren Kec Pilangkenceng",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD276",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000189986 IPVPN Bapenda Provinsi Jatim Bank Jatim Karangjati Ngawi",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD301",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000344539 IIX Indomarco (JOMBANG)(TDQQ)(MEJAYAN CARUBAN)",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD302",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000361072 IPVPN PLN UID Jatim SPKLU SC Rest Area 626A Madiun",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD354",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS Eksternal Alarm Up Caruban",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD376",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000188110 IPVPN PLN UID JATIM SPKLU PLN REST AREA 626 B [NMS 172.28.70.251/28]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD404",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000319690 IPVPN PT. Bank Mandiri KCP MADIUN CARUBAN, Jl. Ahmad Yani No.43 RT.014, RW. 004, Kel. Krajan, Kec. Mejayan [172.26.141.170/29]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD501",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000109845 IPVPN Sumber Alfaria Trjaya O592 A. YANI_CARUBAN MDN/F [ACAM]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD511",
+    "status": "down",
+    "protocol": "down",
+    "description": "NMS EA GI Golang PLC (172.30.53.10/29)",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD722",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000361073 IPVPN PLN UID SPKLU SC Rest Area 626B Madiun Jl.Raya Saradan No.16 [NMS 172.28.70.251/28]",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD911",
+    "status": "up",
+    "protocol": "up",
+    "description": "111205023496 IPVPN Sumber Alfaria Trijaya DC MADIUN, Jl. Raya Madiun - Nganjuk",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD1132",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS MS",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "BD1134",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS Retail",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Lo0",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Tu2617",
+    "status": "up",
+    "protocol": "down",
+    "description": "01000301082",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "Vi4001",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100001",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100002",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100003",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100004",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100005",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100006",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100007",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100008",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100009",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100010",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100011",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100012",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100013",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100014",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100015",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100016",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100017",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100018",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100019",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100020",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100021",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100022",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100023",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100024",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100025",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100026",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100027",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100028",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100029",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100032",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100033",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100034",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100035",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100036",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100037",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100038",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100039",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100040",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100041",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100042",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100043",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100044",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100045",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100046",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100047",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100048",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100049",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100050",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100051",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100052",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100053",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100054",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100055",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100056",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100057",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100058",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100059",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100060",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100062",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100063",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100064",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100065",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100066",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100067",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100070",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100071",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100072",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100073",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100074",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100075",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100076",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100077",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  },
+  {
+    "interface": "pw100078",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.139.133"
+  }
+]

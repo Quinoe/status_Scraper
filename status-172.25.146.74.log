@@ -1,0 +1,200 @@
+**************[2J[1;1H
+JATIM-ICON.OMADATA.INTILAND-MGS3520-CPE-02>show interface brief
+Port    Desc   Link shutdn Speed         Pri PVID Mode TagVlan                                                                 UtVlan
+e0/0/1  141205 up   false  f1000-f1000   0   912  acc                                                                          912
+        001552                                                                                                                 
+         IPVPN                                                                                                                 
+         Solus                                                                                                                 
+        i Medi                                                                                                                 
+        a Digi                                                                                                                 
+        tal Ba                                                                                                                 
+        kchaul                                                                                                                 
+         OmaDa                                                                                                                 
+        ta Sur                                                                                                                 
+        abaya                                                                                                                  
+        Intila                                                                                                                 
+        nd Tow                                                                                                                 
+        er Lt                                                                                                                  
+        3[172.                                                                                                                 
+        28.65.                                                                                                                 
+        168/28                                                                                                                 
+        ]                                                                                                                      
+e0/0/2  010003 up   false  auto-f1000    0   1    trk  155                                                                     1
+        07938                                                                                                                  
+        Metro                                                                                                                  
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        Trimit                                                                                                                 
+        ra Usa                                                                                                                 
+        ha Sej                                                                                                                 
+        ahtera                                                                                                                 
+         (Tus                                                                                                                  
+        Networ                                                                                                                 
+        k) Int                                                                                                                 
+        iland                                                                                                                  
+        Tower                                                                                                                  
+        - Tung                                                                                                                 
+        gal Pa                                                                                                                 
+        ger Jl                                                                                                                 
+        . Rade                                                                                                                 
+        n Pata                                                                                                                 
+        h Kec.                                                                                                                 
+         Pungg                                                                                                                 
+        ing                                                                                                                    
+e0/0/3         down true   auto          0   1    hyb  1                                                                       
+e0/0/4  010000 up   false  auto-f1000    0   3560 acc                                                                          3560
+        94913                                                                                                                  
+        Metro                                                                                                                  
+        P2MP P                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        T.Duta                                                                                                                 
+        kom Wi                                                                                                                 
+        bawa P                                                                                                                 
+        utra O                                                                                                                 
+        madata                                                                                                                 
+         Intil                                                                                                                 
+        and To                                                                                                                 
+        wer 3r                                                                                                                 
+        d Floo                                                                                                                 
+        r Back                                                                                                                 
+        haul                                                                                                                   
+e0/0/5  010003 down false  auto          0   1    trk  15,347,433,721                                                          1
+        52135,                                                                                                                 
+        010003                                                                                                                 
+        53432                                                                                                                  
+        Metro                                                                                                                  
+        QinQ P                                                                                                                 
+        T Netc                                                                                                                 
+        iti Pe                                                                                                                 
+        rsada                                                                                                                  
+        Intila                                                                                                                 
+        nd Tow                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        er - T                                                                                                                 
+        he Oso                                                                                                                 
+         Omada                                                                                                                 
+        ta [17                                                                                                                 
+        2.26.1                                                                                                                 
+        43.189                                                                                                                 
+        /29]                                                                                                                   
+e0/0/6         down true   auto          0   1    hyb                                                                          1
+e0/0/7  010001 up   false  auto-f1000    0   1    trk  115,232,382,653-656                                                     1
+        70924,                                                                                                                 
+        141202                                                                                                                 
+        002579                                                                                                                 
+         Metro                                                                                                                 
+         PT. D                                                                                                                 
+        utakom                                                                                                                 
+         Wibaw                                                                                                                 
+        a Putr                                                                                                                 
+        a - PT                                                                                                                 
+        . Kary                                                                                                                 
+        amitra                                                                                                                 
+         Budi                                                                                                                  
+        Sentos                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        a Caru                                                                                                                 
+        ban                                                                                                                    
+e0/0/8  010000 down false  auto          0   348  hyb                                                                          1,348
+        53324                                                                                                                  
+        Metro                                                                                                                  
+        QinQ P                                                                                                                 
+        ascal                                                                                                                  
+        Solusi                                                                                                                 
+         Nusan                                                                                                                 
+        tara J                                                                                                                 
+        l Moh                                                                                                                  
+        Yamin                                                                                                                  
+        No 14                                                                                                                  
+        Boyola                                                                                                                 
+        ngu Tu                                                                                                                 
+        lungag                                                                                                                 
+        ung                                                                                                                    
+e0/0/9         down false  auto          0   1    hyb                                                                          1
+e0/0/10 Interk up   false  auto-f1000    0   1    trk  5,13,15,79,339,369,393,653,1132                                         1
+        oneksi                                                                                                                 
+         Icon                                                                                                                  
+        - Envi                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        sion                                                                                                                   
+e0/0/11 NNI Tu down false  auto          0   1    trk  403-404,425,447                                                         1
+        juh De                                                                                                                 
+        lapan                                                                                                                  
+        Sembil                                                                                                                 
+        an Net                                                                                                                 
+         Intil                                                                                                                 
+        and To                                                                                                                 
+        wer                                                                                                                    
+e0/0/12 121303 down false  auto          0   1    trk  15,3900                                                                 1
+        001317                                                                                                                 
+         Inter                                                                                                                 
+        net KA                                                                                                                 
+        I Bala                                                                                                                 
+        i Peng                                                                                                                 
+        obatan                                                                                                                 
+         Surab                                                                                                                 
+        aya Gu                                                                                                                 
+        beng S                                                                                                                 
+        urabay                                                                                                                 
+        a [NMS                                                                                                                 
+         SW 17                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        2.26.1                                                                                                                 
+        43.190                                                                                                                 
+        /29][I                                                                                                                 
+        PV4 10                                                                                                                 
+        3.206.                                                                                                                 
+        243.19                                                                                                                 
+        3/32]                                                                                                                  
+e0/0/13        down false  auto          0   1    hyb                                                                          1
+e0/0/14        down false  auto          0   1    hyb                                                                          1
+e0/0/15 010003 down false  auto          0   1    trk  15,433,912                                                              1
+        52135                                                                                                                  
+        Metro                                                                                                                  
+        QinQ P                                                                                                                 
+        T Netc                                                                                                                 
+        iti Pe                                                                                                                 
+        rsada                                                                                                                  
+        Intila                                                                                                                 
+        nd Tow                                                                                                                 
+        er - T                                                                                                                 
+        he Oso                                                                                                                 
+         Omada                                                                                                                 
+        ta [NM                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        S Swit                                                                                                                 
+        ch 172                                                                                                                 
+        .26.14                                                                                                                 
+        3.189/                                                                                                                 
+        29]                                                                                                                    
+e0/0/16        down false  auto          0   1    hyb                                                                          1
+e0/0/17        down false  auto          0   1    hyb                                                                          1
+e0/0/18        down false  auto          0   1    hyb                                                                          1
+e0/0/19        down false  auto          0   1    hyb                                                                          1
+e0/0/20        down false  auto          0   1    hyb                                                                          1
+e0/0/21        down false  auto          0   1    hyb                                                                          1
+e0/0/22        down false  auto          0   1    hyb                                                                          1
+e0/0/23        down false  auto          0   1    hyb                                                                          1
+e0/0/24        down false  auto          0   1    acc                                                                          1
+e0/0/25 141202 down false  f10000        0   1    trk  367,914                                                                 1
+        002578                                                                                                                 
+        ; 0100                                                                                                                 
+        020205                                                                                                                 
+        0 Metr                                                                                                                 
+        o Cybe                                                                                                                 
+        rnet D                                                                                                                 
+        ata Mu                                                                                                                 
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        ltimed                                                                                                                 
+        ia                                                                                                                     
+e0/0/26        down false  f10000        0   1    hyb                                                                          1
+e0/0/27 Trunk  down false  f10000        0   1    trk  15,97,105,160,201,212,222,231,348,367,425,654,912,914,2055,2075,3041    1
+        to JAT                                                                                                                 
+        IM-INT                                                                                                                 
+        ILAND-                                                                                                                 
+        ZYXEL.                                                                                                                 
+        MGS352                                                                                                                 
+        0-CPE-                                                                                                                 
+        01                                                                                                                     
+e0/0/28 Trunk  up   false  f10000-f10000 0   1    trk  15,79,97,105,115,127,155,201,212,222,231-232,339,347-348,359,367,369,   1
+        to JAT                                         382,403-404,411,425,433,447,543,653-656,706,788,912,914,1335,2055,2075, 
+        IM-INT                                         2101,3041,3560                                                          
+        ILAND-                                                                                                                 
+        ZYXEL.                                                                                                                 
+        MGS352                                                                                                                 
+        0-CPE-                                                                                                                 
+        01                                                                                                                     
+Total entries: 28 .
+
+JATIM-ICON.OMADATA.INTILAND-MGS3520-CPE-02>

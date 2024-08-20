@@ -1,0 +1,352 @@
+[
+  {
+    "port": "g0/1",
+    "description": "515420097054 Iconnet Pacitan; 04000324173 IBBC 50Mbps - TRIYANI RT 002 RW 002 BELAH DONOROJO[172.28.74.69/27]",
+    "status": "down Trunk(1) auto 1000Mb Giga-Combo-TX",
+    "vlan": "down Trunk(1) auto 1000Mb Giga-Combo-TX",
+    "duplex": "down Trunk(1) auto 1000Mb Giga-Combo-TX",
+    "speed": "down Trunk(1) auto 1000Mb Giga-Combo-TX",
+    "type": "down Trunk(1) auto 1000Mb Giga-Combo-TX",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/2",
+    "description": "NMS Eksternal Alarm ODC Baru ULP Pacitan [172.25.122.50/29]",
+    "status": "up 71 full 100Mb Giga-Combo-TX",
+    "vlan": "up 71 full 100Mb Giga-Combo-TX",
+    "duplex": "up 71 full 100Mb Giga-Combo-TX",
+    "speed": "up 71 full 100Mb Giga-Combo-TX",
+    "type": "up 71 full 100Mb Giga-Combo-TX",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/3",
+    "description": "Trunk to JATIM-LDN.DESA.WIDORO-H3C.S3100-CPE-01 [NMS 172.28.68.221]",
+    "status": "down Trunk(1) auto 1000Mb Giga-Combo-TX",
+    "vlan": "down Trunk(1) auto 1000Mb Giga-Combo-TX",
+    "duplex": "down Trunk(1) auto 1000Mb Giga-Combo-TX",
+    "speed": "down Trunk(1) auto 1000Mb Giga-Combo-TX",
+    "type": "down Trunk(1) auto 1000Mb Giga-Combo-TX",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/4",
+    "description": "[NO SFP] 515420255408 Iconnet Balai Desa Ngreco Dusun Krajan [NMS:172.28.50.91/29]",
+    "status": "down Trunk(1) auto auto Giga-Combo-TX",
+    "vlan": "down Trunk(1) auto auto Giga-Combo-TX",
+    "duplex": "down Trunk(1) auto auto Giga-Combo-TX",
+    "speed": "down Trunk(1) auto auto Giga-Combo-TX",
+    "type": "down Trunk(1) auto auto Giga-Combo-TX",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/5",
+    "description": "01000343076 Metro Hipernet Rutan Kelas II B Pacitan [172.28.74.73/27][04584 MSR 172.27.33.91/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/6",
+    "description": "Trunk to JATIM-GI.NEW.PACITAN-H3C.S3100-CPE-01 [172.26.141.187/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/7",
+    "description": "04000164890;[04000045741 Internet][01000014327 IPVPN] BP3TI BLK Pacitan UPTD Timur",
+    "status": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-Combo-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/8",
+    "description": "01000089753 IPVPN Lintas Data Prima SMA Negeri 1 Panggul[NMS 172.28.50.90/29][LDP 172.28.50.91/29]",
+    "status": "down Trunk(1) auto auto Giga-Combo-TX",
+    "vlan": "down Trunk(1) auto auto Giga-Combo-TX",
+    "duplex": "down Trunk(1) auto auto Giga-Combo-TX",
+    "speed": "down Trunk(1) auto auto Giga-Combo-TX",
+    "type": "down Trunk(1) auto auto Giga-Combo-TX",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/9",
+    "description": "01000169350 IPVPN Sumber Alfaria Trijaya O278 Panglima Sudirman Pacitan Reguler [NMS 172.26.141.189/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/10",
+    "description": "04000063695 IP Transit Cakrawala Lintas Kebonagung Kab.Trenggalek [NMS 172.25.129.60/29]",
+    "status": "down Trunk(1) auto auto Giga-FX",
+    "vlan": "down Trunk(1) auto auto Giga-FX",
+    "duplex": "down Trunk(1) auto auto Giga-FX",
+    "speed": "down Trunk(1) auto auto Giga-FX",
+    "type": "down Trunk(1) auto auto Giga-FX",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/11",
+    "description": "down 1 auto 1000Mb Giga-FX-SFP",
+    "status": "down 1 auto 1000Mb Giga-FX-SFP",
+    "vlan": "down 1 auto 1000Mb Giga-FX-SFP",
+    "duplex": "down 1 auto 1000Mb Giga-FX-SFP",
+    "speed": "down 1 auto 1000Mb Giga-FX-SFP",
+    "type": "down 1 auto 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/12",
+    "description": "01000098828 IPVPN Lintas Data Prima Pengadilan Negeri Pacitan [NMS: 172.28.83.200/27]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/13",
+    "description": "01000162877 Metro PT. Aplikanusa Lintasarta Detasemen TNI Au Pacitan JLN. WR Supratman [IP NMS : 172.28.68.215/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/14",
+    "description": "141301000064 IP Transit;[04000188378 IP Transit + 04000188371 IIX Transit] Diskominfo Kab Pacitan [NMS 172.28.74.77/27]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/15",
+    "description": "01000343851 Metro BSI Kompleks Bank Mandiri Griya Rempoa - KCP Pacitan [172.25.148.59]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/16",
+    "description": "shutdown 1 auto 1000Mb Giga-FX-SFP",
+    "status": "shutdown 1 auto 1000Mb Giga-FX-SFP",
+    "vlan": "shutdown 1 auto 1000Mb Giga-FX-SFP",
+    "duplex": "shutdown 1 auto 1000Mb Giga-FX-SFP",
+    "speed": "shutdown 1 auto 1000Mb Giga-FX-SFP",
+    "type": "shutdown 1 auto 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/17",
+    "description": "04000133740 Internet Broadband Indonesia Comnets Plus Donorojo, Kabupaten Pacitan [NMS 172.28.50.92/29]",
+    "status": "down Trunk(1) auto 1000Mb Giga-FX-SFP",
+    "vlan": "down Trunk(1) auto 1000Mb Giga-FX-SFP",
+    "duplex": "down Trunk(1) auto 1000Mb Giga-FX-SFP",
+    "speed": "down Trunk(1) auto 1000Mb Giga-FX-SFP",
+    "type": "down Trunk(1) auto 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/18",
+    "description": "04000145379 IIX Indomarco Prismatama (KLATEN) (T2DW) Donorojo - Pacitan [NMS 172.28.68.210/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/19",
+    "description": "01000176002 IPVPN Sumber Alfaria Trijaya O219 Yos Sudarso PCT [172.28.74.71/27]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/20",
+    "description": "01000340155 IPVPN; 515420015489 Stroomnet - PLN Rayon Pacitan [NMS 172.28.68.213/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/21",
+    "description": "111401007765 IBBC;01000169328 IPVPN Sumber Alfaria Trijaya O220 LETJEND SUPRAPTO Pacitan [172.28.83.198/27]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/22",
+    "description": "515420224794 Lentera Digital Nusantara Jatigunung Tulakan Krajan Pacitan[NMS 172.28.68.212/28]",
+    "status": "down Trunk(1) auto 1000Mb Giga-FX-SFP",
+    "vlan": "down Trunk(1) auto 1000Mb Giga-FX-SFP",
+    "duplex": "down Trunk(1) auto 1000Mb Giga-FX-SFP",
+    "speed": "down Trunk(1) auto 1000Mb Giga-FX-SFP",
+    "type": "down Trunk(1) auto 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/23",
+    "description": "01000310832 IPVPN Bank Mandiri KCP Pacitan Jl. Ahmad Yani No. 88 [172.28.74.70/27]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "g0/24",
+    "description": "01000169352 IPVPN; 111401007055 IBBC Sumber Alfaria Trijaya O694 Gatot Subroto PCTN [O322][172.28.83.199/27]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "tg0/1",
+    "description": "down 1 full 10000Mb 10Giga-FX",
+    "status": "down 1 full 10000Mb 10Giga-FX",
+    "vlan": "down 1 full 10000Mb 10Giga-FX",
+    "duplex": "down 1 full 10000Mb 10Giga-FX",
+    "speed": "down 1 full 10000Mb 10Giga-FX",
+    "type": "down 1 full 10000Mb 10Giga-FX",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "tg0/2",
+    "description": "down 1 full 10000Mb 10Giga-FX",
+    "status": "down 1 full 10000Mb 10Giga-FX",
+    "vlan": "down 1 full 10000Mb 10Giga-FX",
+    "duplex": "down 1 full 10000Mb 10Giga-FX",
+    "speed": "down 1 full 10000Mb 10Giga-FX",
+    "type": "down 1 full 10000Mb 10Giga-FX",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "tg0/3",
+    "description": "down 1 full 10000Mb 10Giga-FX",
+    "status": "down 1 full 10000Mb 10Giga-FX",
+    "vlan": "down 1 full 10000Mb 10Giga-FX",
+    "duplex": "down 1 full 10000Mb 10Giga-FX",
+    "speed": "down 1 full 10000Mb 10Giga-FX",
+    "type": "down 1 full 10000Mb 10Giga-FX",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "tg0/4",
+    "description": "Trunk to JATIM-UPJ.PACITAN-ASR920-UPE-01#25",
+    "status": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "speed": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "type": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "v1",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "v2",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "v5",
+    "description": "p2p.diskominfo down",
+    "status": "p2p.diskominfo down",
+    "vlan": "p2p.diskominfo down",
+    "duplex": "p2p.diskominfo down",
+    "speed": "p2p.diskominfo down",
+    "type": "p2p.diskominfo down",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "v13",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "v300",
+    "description": "shutdown",
+    "status": "shutdown",
+    "vlan": "shutdown",
+    "duplex": "shutdown",
+    "speed": "shutdown",
+    "type": "shutdown",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "v999",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.25.146.197"
+  },
+  {
+    "port": "n0",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.25.146.197"
+  }
+]

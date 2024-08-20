@@ -1,0 +1,390 @@
+**************[2J[1;1H
+JATIM-SHELTER.GI.NGAWI-ZYXEL.MGS3520-CPE-01>show interface brief
+Port    Desc   Link shutdn Speed         Pri PVID Mode TagVlan                                                                                             UtVlan
+e0/0/1  Trunk  up   false  auto-f1000    0   1    trk  all                                                                                                 1
+        to JAT                                                                                                                                             
+        IM-SHE                                                                                                                                             
+        LTER.G                                                                                                                                             
+        I.NGAW                                                                                                                                             
+        I-ASR9                                                                                                                                             
+        20-UPE                                                                                                                                             
+        -01                                                                                                                                                
+e0/0/2  111303 up   false  auto-f1000    0   1    trk  14,1685                                                                                             1
+        013389                                                                                                                                             
+         Inter                                                                                                                                             
+        net BP                                                                                                                                             
+        JS Kes                                                                                                                                             
+        ehatan                                                                                                                                             
+         Kab.N                                                                                                                                             
+        gawi J                                                                                                                                             
+        l.PB S                                                                                                                                             
+        udirma                                                                                                                                             
+        n No.7                                                                                                                                             
+        6 [NMS                                                                                                                                             
+         Switc                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        h 172.                                                                                                                                             
+        28.94.                                                                                                                                             
+        76/28]                                                                                                                                             
+        [IPV4                                                                                                                                              
+        124.15                                                                                                                                             
+        8.172.                                                                                                                                             
+        82/32]                                                                                                                                             
+e0/0/3  Trunk  up   false  auto-f1000    0   1    trk  13,51,70,1835,1984                                                                                  1
+        to JAT                                                                                                                                             
+        IM-PLN                                                                                                                                             
+        .GI.NG                                                                                                                                             
+        AWI-HU                                                                                                                                             
+        AWEI.S                                                                                                                                             
+        2700-C                                                                                                                                             
+        PE-01                                                                                                                                              
+        [172.2                                                                                                                                             
+        5.147.                                                                                                                                             
+        165/29                                                                                                                                             
+        ]                                                                                                                                                  
+e0/0/4  010000 up   false  auto-f1000    0   1    trk  113                                                                                                 1
+        30672                                                                                                                                              
+        IPVPN                                                                                                                                              
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        SCADA                                                                                                                                              
+        Premiu                                                                                                                                             
+        m PT P                                                                                                                                             
+        LN GI                                                                                                                                              
+        CARUBA                                                                                                                                             
+        N [bac                                                                                                                                             
+        kup]                                                                                                                                               
+e0/0/5  099000 down false  auto          0   1    trk  14,313                                                                                              1
+        032051                                                                                                                                             
+        1437 M                                                                                                                                             
+        etro I                                                                                                                                             
+        NDOSAT                                                                                                                                             
+         NNI K                                                                                                                                             
+        PPTI -                                                                                                                                             
+         OTTO                                                                                                                                              
+        Ngawi                                                                                                                                              
+        Jl Ahm                                                                                                                                             
+        ad Yan                                                                                                                                             
+        i Ngaw                                                                                                                                             
+        i [172                                                                                                                                             
+        .25.17                                                                                                                                             
+        .165/2                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        9]                                                                                                                                                 
+e0/0/6  040003 up   false  auto-f1000    0   1    trk  14,721                                                                                              1
+        44959                                                                                                                                              
+        IIX In                                                                                                                                             
+        domarc                                                                                                                                             
+        o Pris                                                                                                                                             
+        matama                                                                                                                                             
+        -(JOMB                                                                                                                                             
+        ANG)(T                                                                                                                                             
+        ELM)(F                                                                                                                                             
+        RESH N                                                                                                                                             
+        GAWI 2                                                                                                                                             
+        ) JL.A                                                                                                                                             
+        .YANI                                                                                                                                              
+        NO.101                                                                                                                                             
+         [NMS                                                                                                                                              
+        172.28                                                                                                                                             
+        .74.10                                                                                                                                             
+        9/28]                                                                                                                                              
+e0/0/7  001000 up   false  auto-f1000    0   1    trk  77                                                                                                  1
+        030645                                                                                                                                             
+         IPVPN                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K         Scada                                                                                                                                             
+         Premi                                                                                                                                             
+        um PLN                                                                                                                                             
+         APD D                                                                                                                                             
+        isjati                                                                                                                                             
+        m GI M                                                                                                                                             
+        rangge                                                                                                                                             
+        n [BAC                                                                                                                                             
+        KUP]                                                                                                                                               
+e0/0/8  010000 up   false  auto-f1000    0   148  acc                                                                                                      148
+        30703                                                                                                                                              
+        IPVPN                                                                                                                                              
+        Scada                                                                                                                                              
+        Premiu                                                                                                                                             
+        m PLN                                                                                                                                              
+        APD Di                                                                                                                                             
+        sjatim                                                                                                                                             
+         GI Ma                                                                                                                                             
+        getan                                                                                                                                              
+        [BACKU                                                                                                                                             
+        P]                                                                                                                                                 
+e0/0/9  040003 up   false  auto-f1000    0   1    trk  14,85                                                                                               1
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        57513                                                                                                                                              
+        Intern                                                                                                                                             
+        et Sum                                                                                                                                             
+        mit Ot                                                                                                                                             
+        o Fina                                                                                                                                             
+        nce Jl                                                                                                                                             
+        . A Ya                                                                                                                                             
+        ni 206                                                                                                                                             
+         RT001                                                                                                                                             
+         RW001                                                                                                                                             
+         Ds Be                                                                                                                                             
+        ran, N                                                                                                                                             
+        gawi [                                                                                                                                             
+        NMS 17                                                                                                                                             
+        2.28.7                                                                                                                                             
+        4.110/                                                                                                                                             
+        28]                                                                                                                                                
+e0/0/10 040003 up   false  auto-f1000    0   1    trk  14,195                                                                                              1
+        17242                                                                                                                                              
+        Intern                                                                                                                                             
+        et Cor                                                                                                                                             
+        porate                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K          PT C                                                                                                                                             
+        ipta G                                                                                                                                             
+        agas L                                                                                                                                             
+        estari                                                                                                                                             
+         Jl. S                                                                                                                                             
+        oekarn                                                                                                                                             
+        o Hatt                                                                                                                                             
+        a Kart                                                                                                                                             
+        oharjo                                                                                                                                             
+         [NMS:                                                                                                                                             
+        172.25                                                                                                                                             
+        .159.2                                                                                                                                             
+        37]                                                                                                                                                
+e0/0/11 [04000 up   false  auto-f1000    0   1    trk  676,1132,2807                                                                                       1
+        161165                                                                                                                                             
+         IBBC]                                                                                                                                             
+        [01000                                                                                                                                             
+        161163                                                                                                                                             
+         Metro                                                                                                                                             
+        ] Disk                                                                                                                                             
+        ominfo                                                                                                                                             
+         Kab B                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        ojoneg                                                                                                                                             
+        oro Ke                                                                                                                                             
+        camata                                                                                                                                             
+        n Marg                                                                                                                                             
+        o Jl.                                                                                                                                              
+        Raya A                                                                                                                                             
+        . Yani                                                                                                                                             
+         No.46                                                                                                                                             
+e0/0/12 141303 up   false  auto-f1000    0   1    trk  14,745                                                                                              1
+        002252                                                                                                                                             
+         Inter                                                                                                                                             
+        net PT                                                                                                                                             
+        .WAI H                                                                                                                                             
+        ing In                                                                                                                                             
+        dustri                                                                                                                                             
+        al Ind                                                                                                                                             
+        onesia                                                                                                                                             
+         RAYA                                                                                                                                              
+        NGAWI                                                                                                                                              
+        CARUBA                                                                                                                                             
+        N KM 0                                                                                                                                             
+        4 [NMS                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K         172.2                                                                                                                                             
+        8.94.6                                                                                                                                             
+        9/28]                                                                                                                                              
+e0/0/13 010000 up   false  auto-f1000    0   1    trk  14,178,1132                                                                                         1
+        91827                                                                                                                                              
+        IPVPN                                                                                                                                              
+        Kement                                                                                                                                             
+        rian P                                                                                                                                             
+        UPR Di                                                                                                                                             
+        rjen S                                                                                                                                             
+        umber                                                                                                                                              
+        Daya A                                                                                                                                             
+        ir Ben                                                                                                                                             
+        dungan                                                                                                                                             
+         Pondo                                                                                                                                             
+        k  [NM                                                                                                                                             
+        S 172.                                                                                                                                             
+        25.140                                                                                                                                             
+        .213/2                                                                                                                                             
+        9]                                                                                                                                                 
+e0/0/14 010000 up   false  auto-f1000    0   1    trk  14,177,1132                                                                                         1
+        91821                                                                                                                                              
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        IPVPN                                                                                                                                              
+        Kement                                                                                                                                             
+        rian P                                                                                                                                             
+        UPR Di                                                                                                                                             
+        rjen S                                                                                                                                             
+        umber                                                                                                                                              
+        Daya A                                                                                                                                             
+        ir Dir                                                                                                                                             
+        ektora                                                                                                                                             
+        t Bina                                                                                                                                             
+         Opera                                                                                                                                             
+        si dan                                                                                                                                             
+         Sangi                                                                                                                                             
+        ran [N                                                                                                                                             
+        MS 172                                                                                                                                             
+        .26.14                                                                                                                                             
+        1.122/                                                                                                                                             
+        29]                                                                                                                                                
+e0/0/15 141401 up   false  auto-f1000    0   1    trk  14,2809                                                                                             1
+        001908                                                                                                                                             
+         Inter                                                                                                                                             
+        net Br                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        oadban                                                                                                                                             
+        d PT W                                                                                                                                             
+        ai Hin                                                                                                                                             
+        g Indu                                                                                                                                             
+        strial                                                                                                                                             
+         Indon                                                                                                                                             
+        esia G                                                                                                                                             
+        rand W                                                                                                                                             
+        atuala                                                                                                                                             
+        ng Asr                                                                                                                                             
+        i KR07                                                                                                                                             
+         Jl. K                                                                                                                                             
+        hayang                                                                                                                                             
+        an Ray                                                                                                                                             
+        a [172                                                                                                                                             
+        .28.94                                                                                                                                             
+        .68/28                                                                                                                                             
+        ]                                                                                                                                                  
+e0/0/16 010001 up   false  auto-f1000    0   1    trk  14,231                                                                                              1
+        11608                                                                                                                                              
+        IPVPN                                                                                                                                              
+        PT Lin                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        tas Da                                                                                                                                             
+        ta Pri                                                                                                                                             
+        ma Kec                                                                                                                                             
+        amatan                                                                                                                                             
+         Pilan                                                                                                                                             
+        gkence                                                                                                                                             
+        ng Ken                                                                                                                                             
+        ongo K                                                                                                                                             
+        enongo                                                                                                                                             
+        rejo M                                                                                                                                             
+        adiun                                                                                                                                              
+        [NMS 1                                                                                                                                             
+        72.26.                                                                                                                                             
+        141.12                                                                                                                                             
+        4/29]                                                                                                                                              
+e0/0/17 010001 up   false  auto-f1000    0   1    trk  14,21,37                                                                                            1
+        89095                                                                                                                                              
+        IPVPN                                                                                                                                              
+        Mitra                                                                                                                                              
+        Vision                                                                                                                                             
+        er Pra                                                                                                                                             
+        tama N                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        gawi [                                                                                                                                             
+        NMS 17                                                                                                                                             
+        2.28.7                                                                                                                                             
+        7.2/29                                                                                                                                             
+        ]                                                                                                                                                  
+e0/0/18 040003 up   false  auto-f1000    0   1    trk  14,75                                                                                               1
+        17810                                                                                                                                              
+        IIX on                                                                                                                                             
+        ly Ind                                                                                                                                             
+        omarco                                                                                                                                             
+         Prism                                                                                                                                             
+        atama-                                                                                                                                             
+        (Jomba                                                                                                                                             
+        ng} (F                                                                                                                                             
+        T5Y)(S                                                                                                                                             
+        upriya                                                                                                                                             
+        di Kar                                                                                                                                             
+        angsar                                                                                                                                             
+        i) Jl.                                                                                                                                             
+         Supri                                                                                                                                             
+        yadi,                                                                                                                                              
+        Ngawi                                                                                                                                              
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        (172.2                                                                                                                                             
+        8.74.1                                                                                                                                             
+        03/28)                                                                                                                                             
+e0/0/19 040003 up   false  auto-f1000    0   1    trk  14,145                                                                                              1
+        20983                                                                                                                                              
+        IIX In                                                                                                                                             
+        domarc                                                                                                                                             
+        o Pris                                                                                                                                             
+        matama                                                                                                                                             
+        -(JOMB                                                                                                                                             
+        ANG)(T                                                                                                                                             
+        PVL)(R                                                                                                                                             
+        AYA NG                                                                                                                                             
+        AWI -C                                                                                                                                             
+        aruban                                                                                                                                             
+         Km.5)                                                                                                                                             
+         Jl. R                                                                                                                                             
+        aya Ng                                                                                                                                             
+        awi-Ca                                                                                                                                             
+        ruban                                                                                                                                              
+        [172.2                                                                                                                                             
+        8.74.1                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        04/28]                                                                                                                                             
+e0/0/20 040003 up   false  auto-f1000    0   1    trk  14,433                                                                                              1
+        31863                                                                                                                                              
+        IIX In                                                                                                                                             
+        domarc                                                                                                                                             
+        o Pris                                                                                                                                             
+        matama                                                                                                                                             
+         Jomba                                                                                                                                             
+        ng FEU                                                                                                                                             
+        F Kara                                                                                                                                             
+        ng Ten                                                                                                                                             
+        gah Pr                                                                                                                                             
+        andon                                                                                                                                              
+        [NMS S                                                                                                                                             
+        Witch                                                                                                                                              
+        172.28                                                                                                                                             
+        .74.10                                                                                                                                             
+        7/28]                                                                                                                                              
+e0/0/21 040003 down false  auto          0   1    trk  14,2806                                                                                             1
+        19863                                                                                                                                              
+        IBBC P                                                                                                                                             
+        ertami                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        na Ret                                                                                                                                             
+        ail H9                                                                                                                                             
+        RJ+GMF                                                                                                                                             
+        , Bleg                                                                                                                                             
+        o, Nga                                                                                                                                             
+        le, Ke                                                                                                                                             
+        c. Par                                                                                                                                             
+        on[172                                                                                                                                             
+        .28.74                                                                                                                                             
+        .108/2                                                                                                                                             
+        8]                                                                                                                                                 
+e0/0/22 111302 up   false  auto-f1000    0   1    trk  14,2807,3859                                                                                        1
+        004135                                                                                                                                             
+         IBBC                                                                                                                                              
+        Indoma                                                                                                                                             
+        rco (J                                                                                                                                             
+        OMBANG                                                                                                                                             
+        )(T4YB                                                                                                                                             
+        )(RAYA                                                                                                                                             
+         GUYUN                                                                                                                                             
+        G)[172                                                                                                                                             
+        .28.94                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        .66/28                                                                                                                                             
+        ]                                                                                                                                                  
+e0/0/23 111401 up   false  auto-f1000    0   1    trk  2,14,2804                                                                                           1
+        006312                                                                                                                                             
+         IBBC                                                                                                                                              
+        PT Pup                                                                                                                                             
+        uk Ind                                                                                                                                             
+        onesia                                                                                                                                             
+         GUDAN                                                                                                                                             
+        G Ngaw                                                                                                                                             
+        i 2 -                                                                                                                                              
+        Sidoke                                                                                                                                             
+        rto[17                                                                                                                                             
+        2.28.9                                                                                                                                             
+        4.67/2                                                                                                                                             
+        8]                                                                                                                                                 
+e0/0/24 111401 up   false  auto-f1000    0   1    trk  14,25,2806                                                                                          1
+        007812                                                                                                                                             
+         IBBC                                                                                                                                              
+        Sumber                                                                                                                                             
+         ALfar                                                                                                                                             
+        ia Tri                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        jaya 2                                                                                                                                             
+        AO1 KA                                                                                                                                             
+        NDANGA                                                                                                                                             
+        N NGAW                                                                                                                                             
+        I[172.                                                                                                                                             
+        28.94.                                                                                                                                             
+        70/28]                                                                                                                                             
+e0/0/25        down true   f10000        0   1    hyb                                                                                                      1
+e0/0/26        down true   f10000        0   1    hyb                                                                                                      1
+e0/0/27        down true   f10000        0   1    hyb                                                                                                      1
+e0/0/28        down true   f10000        0   1    hyb                                                                                                      1
+Total entries: 28 .
+
+JATIM-SHELTER.GI.NGAWI-ZYXEL.MGS3520-CPE-01>

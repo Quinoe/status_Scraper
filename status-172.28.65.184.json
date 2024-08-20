@@ -1,0 +1,202 @@
+[
+  {
+    "port": "g0/1",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/2",
+    "description": "p2p.temp down 7 auto auto Giga-TX",
+    "status": "p2p.temp down 7 auto auto Giga-TX",
+    "vlan": "p2p.temp down 7 auto auto Giga-TX",
+    "duplex": "p2p.temp down 7 auto auto Giga-TX",
+    "speed": "p2p.temp down 7 auto auto Giga-TX",
+    "type": "p2p.temp down 7 auto auto Giga-TX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/3",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/4",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/5",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/6",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/7",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/8",
+    "description": "030304995747 PLN UP3 Ponorogo Jl.Arief Rahman Hakim Km 1 Ponorogo [172.28.75.119/28]",
+    "status": "down Trunk(1) auto auto Giga-TX",
+    "vlan": "down Trunk(1) auto auto Giga-TX",
+    "duplex": "down Trunk(1) auto auto Giga-TX",
+    "speed": "down Trunk(1) auto auto Giga-TX",
+    "type": "down Trunk(1) auto auto Giga-TX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/9",
+    "description": "01000145942 Metro Restu Panca Alam IDC Duren Tiga - Dukuh Josari Kulon [NMS 172.28.65.188/28]",
+    "status": "down Trunk(1) auto 1000Mb Giga-FX",
+    "vlan": "down Trunk(1) auto 1000Mb Giga-FX",
+    "duplex": "down Trunk(1) auto 1000Mb Giga-FX",
+    "speed": "down Trunk(1) auto 1000Mb Giga-FX",
+    "type": "down Trunk(1) auto 1000Mb Giga-FX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/10",
+    "description": "010000028240197 IPVPN PLN Disjatim UPJ Balong [NMS 172.28.69.99/29][515413091450 Stroomnet 172.28.69.98/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/11",
+    "description": "04000148043 IIX Indomarco Prismatama (JOMBANG) (TTRH) Letjend Suprapto No.19 [NMS 172.28.69.101/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/12",
+    "description": "04000148040 IIX Indomarco Prismatama (JOMBANG) (TW5H) Ponorogo - Wonogiri/004 [NMS 172.28.69.100/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/13",
+    "description": "04000148047 IIX Indomarco Prismatama (JOMBANG) (FC5P) Jendral Sudirman Ponorogo [NMS 172.28.69.102/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/14",
+    "description": "#WXMR09 04000321414 Internet Broadband Indonesia Comnets Plus - Balai Desa Morosari [IP NMS : 172.28.75.125/28]",
+    "status": "down Trunk(1) auto auto Giga-FX",
+    "vlan": "down Trunk(1) auto auto Giga-FX",
+    "duplex": "down Trunk(1) auto auto Giga-FX",
+    "speed": "down Trunk(1) auto auto Giga-FX",
+    "type": "down Trunk(1) auto auto Giga-FX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/15",
+    "description": "04000148096 IIX Indomarco Prismatama (JOMBANG) (FZWN) Jl. Raya Ponorogo Solo/004 [NMS 172.28.69.178/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/16",
+    "description": "141401001947 IBBC 20 Mbps UP3 Ponorogo Lt.1 [NMS 172.28.69.105/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/17",
+    "description": "04000357542 Internet Summit Oto Finance Jl Basuki Rahmat No 26A-26B, Ponorogo [NMS 172.28.75.114/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/18",
+    "description": "141401001891 IBBC Diskominfo Ponorogo Free Wifi Kominfo Site Rumah Dinas Bupati [172.28.85.233/27]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/19",
+    "description": "515413384341 Iconnet Pacitan - PT LDN (Desa Mrayan Ngrayun) Desa Mrayan, Ngrayun[NMS 172.28.69.184/28]",
+    "status": "down Trunk(1) auto auto Giga-FX",
+    "vlan": "down Trunk(1) auto auto Giga-FX",
+    "duplex": "down Trunk(1) auto auto Giga-FX",
+    "speed": "down Trunk(1) auto auto Giga-FX",
+    "type": "down Trunk(1) auto auto Giga-FX",
+    "ip": "172.28.65.184"
+  },
+  {
+    "port": "g0/20",
+    "description": "515411226489 Lentera Digital Nusantara Jalan Raya Baosan Kidul Nomor 1 [NMS 172.28.69.183/28]",
+    "status": "515411226489 Lentera Digital Nusantara Jalan Raya Baosan Kidul Nomor 1 [NMS 172.28.69.183/28]",
+    "vlan": "515411226489 Lentera Digital Nusantara Jalan Raya Baosan Kidul Nomor 1 [NMS 172.28.69.183/28]",
+    "duplex": "515411226489 Lentera Digital Nusantara Jalan Raya Baosan Kidul Nomor 1 [NMS 172.28.69.183/28]",
+    "speed": "515411226489 Lentera Digital Nusantara Jalan Raya Baosan Kidul Nomor 1 [NMS 172.28.69.183/28]",
+    "type": "515411226489 Lentera Digital Nusantara Jalan Raya Baosan Kidul Nomor 1 [NMS 172.28.69.183/28]",
+    "ip": "172.28.65.184"
+  }
+]

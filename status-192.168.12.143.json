@@ -1,0 +1,947 @@
+[
+  {
+    "interface": "Gi0/0/0",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk to JATIM-SHELTER.GI.NGAWI-ZYXEL.MGS3520-CPE-01",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/1",
+    "status": "down",
+    "protocol": "down",
+    "description": "Trunk to JATENG-GI.SRAGEN-C3750-CPE-02 [NMS:172.25.17.166/29] (Backup)",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/2",
+    "status": "down",
+    "protocol": "down",
+    "description": "Trunk to JATIM-MANTINGAN-ZYXEL.MGS3520-CPE-02 [NMS:172.25.10.252/29] delete ANDOP 20210115-1",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/3",
+    "status": "up",
+    "protocol": "up",
+    "description": "141204000019 Metro P2P Pt Data Arta Sedaya - Data Arta Sedaya Ngawi Kluwen",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/4",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk to JATIM-SHELTER.GI.NGAWI-C2960-CPE-01",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/5",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/6",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/7",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/8",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/9",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/10",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/11",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/12",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/13",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/14",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/15",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/16",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/17",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/18",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/19",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/20",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/21",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/22",
+    "status": "down",
+    "protocol": "down",
+    "description": "Link to JATIM-MINI.ODC.UPJ.NGAWI-ASR920-UPE-01",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0/0/23",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Te0/0/24",
+    "status": "up",
+    "protocol": "up",
+    "description": "Link to JATIM-SHELTER.GI.NGAWI-ASR920.12SZ-UPE-02",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Te0/0/25",
+    "status": "up",
+    "protocol": "up",
+    "description": "Link to JATIM-SHELTER.GI.NGAWI-NE8000.M14-NPE-01_Gi0/4/0",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Te0/0/26",
+    "status": "up",
+    "protocol": "up",
+    "description": "Trunk to JATIM-SHELTER.NGAWI-RC-OLT-01",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Te0/0/27",
+    "status": "up",
+    "protocol": "up",
+    "description": "Link to JATIM-ODC.MANTINGAN-ASR920-UPE-01",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Gi0",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD14",
+    "status": "up",
+    "protocol": "up",
+    "description": "description NMS Catalyst dan Telways [172.25.17.166 booked switch 3750]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD15",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS Hariff Shelter Ngawi",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD17",
+    "status": "admin down",
+    "protocol": "down",
+    "description": "NMS sementara area sragen activate di jajar MX dan hapus ini kalo FO dah naik",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD18",
+    "status": "up",
+    "protocol": "up",
+    "description": "Monitoring NMS",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD21",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS L2",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD25",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000109877 IPVPN Sumber Alfaria Trijaya O358 KANDANGAN NGAWI / F - JL. RING ROAD [DCN Mikrotik:172.40.6.2/29]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD27",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000178200 IPVPN Sumber Alfaria Trijaya O531 Ring Road Ngawi / F",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD29",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000178132 IPVPN Sumber Alfaria Trijaya Geneng Ngawi [0244]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD30",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000178139 IPVPN Sumber Alfaria Trijaya O245 Paron Ngawi",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD37",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000189095 IPVPN Mitra Visioner Pratama Ngawi [NMS 172.28.77.2/29]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD51",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS Eksternal Alarm GI NGAWI PLC [172.30.54.58/29]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD60",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000321927 IPVPN BCA KCP Ngawi (SLN), JL. Sultan Agung No. 52 Ngawi",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD70",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000030700 IPVPN SCADA Premium PT PLN GI NGAWI Main",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD75",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000317810 IIX only Indomarco Prismatama-(Jombang} (FT5Y)(Supriyadi Karangsari) Jl. Supriyadi, Ngawi",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD77",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000030645 IPVPN Scada Premium PLN APD Disjatim GI Mranggen [BACKUP]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD85",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000357513 Internet Summit Oto Finance Jl. A Yani 206 RT001 RW001 Ds Beran, Ngawi",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD100",
+    "status": "up",
+    "protocol": "up",
+    "description": "0990000320477453 IPVPN CCTV VOIP ICON+ POP NGAWI GI SHELTER [ext 5098]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD113",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000030672 IPVPN SCADA Premium PT PLN GI CARUBAN [backup]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD145",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000320983 IIX Indomarco Prismatama-(JOMBANG)(TPVL)(RAYA NGAWI -Caruban Km.5) Jl. Raya Ngawi-Caruban",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD148",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000030703 IPVPN Scada Premium PLN APD Disjatim GI Magetan [BACKUP]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD177",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000091821 IPVPN Kementrian PUPR Dirjen Sumber Daya Air Direktorat Bina Operasi dan Pemeliharaan Bendungan Sangiran [NMS 172.26.141.122/29]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD178",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000091827 IPVPN Kementrian PUPR Dirjen Sumber Daya Air Direktorat Bina Operasi dan Pemeliharaan Bendungan Pondok [NMS 172.25.17.164/29]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD195",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000317242 Internet Cipta Gagas Lestari-Jl. Soekarno Hatta Kartoharjo Ngawi",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD200",
+    "status": "up",
+    "protocol": "up",
+    "description": "0990000320499728 IPVPN BADAN PENDAPATAN DAERAH PROV JATIM UPTD Ngawi Jl Hasanudin No 56 Ngawi",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD231",
+    "status": "up",
+    "protocol": "up",
+    "description": "01000111608 IPVPN PT Lintas Data Prima Kecamatan Pilangkenceng Kenongo Kenongorejo Madiun [NMS 172.26.141.124/29]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD433",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000331863 IIX Indomarco Prismatama Jombang FEUF Karang Tengah Prandon [NMS SWitch 172.28.74.107/28]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD721",
+    "status": "up",
+    "protocol": "up",
+    "description": "04000344959 IIX Indomarco Prismatama-(JOMBANG)(TELM)(FRESH NGAWI 2) JL.A.YANI NO.101 KEL MARGOMULYO [NMS 172.28.74.109/28]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD745",
+    "status": "up",
+    "protocol": "up",
+    "description": "141303002253 Penambahan IPv4; 141303002252 Internet PT.WAI Hing Industrial Indonesia RAYA NGAWI CARUBAN KM 04 KARANGTENGAH [NMS 172.28.94.68/28]",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD1130",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS DCN Mikrotik Alfa",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD1132",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS MS",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD1134",
+    "status": "down",
+    "protocol": "down",
+    "description": "NMS Retail",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "BD1139",
+    "status": "up",
+    "protocol": "up",
+    "description": "NMS I see",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Lo0",
+    "status": "up",
+    "protocol": "up",
+    "description": "SHELTER NGAWI",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "Vi4001",
+    "status": "down",
+    "protocol": "down",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100001",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100002",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100003",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100004",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100005",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100007",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100009",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100011",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100013",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100015",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100017",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100018",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100019",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100020",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100021",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100025",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100027",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100028",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100029",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100031",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100032",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100033",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100034",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100036",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100038",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100040",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100042",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100044",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100046",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100048",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100050",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100052",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100053",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100054",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100055",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100060",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100061",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100062",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100064",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100065",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100066",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100069",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100072",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100073",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100074",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100075",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100080",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100081",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100082",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100083",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100087",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100088",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100089",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100090",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100091",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100092",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100093",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100094",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100095",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100096",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100097",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100098",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100099",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100100",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100101",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100102",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100103",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100104",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100105",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100108",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100111",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  },
+  {
+    "interface": "pw100112",
+    "status": "up",
+    "protocol": "up",
+    "description": "",
+    "ip": "192.168.12.143"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "interface": "GE1/0/1",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "04000035540 Internet PT FKS",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/2",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "141303002030 Inet 141401001",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/3",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "111205028663 IPVPN,11140100",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/4",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "04000325901 IBBC 10M PT. Pe",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/5",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A T",
+    "type": "T",
+    "pvid": "1",
+    "description": "04000010966 Internet PT,ICO",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/6",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "121401001279;121303001224 I",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/7",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/8",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "141303002235 Internet Corpo",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/9",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A T",
+    "type": "T",
+    "pvid": "1",
+    "description": "111205028664 IPVPN; 1113030",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/10",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "04000355210 IIX Indomarco-(",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/11",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "04000355192 IIX Indomarco P",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/12",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "04000120623 IIX Indomarco P",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/13",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "01000129340 IPVPN Bank Mand",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/14",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/15",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "111401006418 IBBC Pupuk Ind",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/16",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "141401002056;04000153970 In",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/17",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "[04000013983 Internet Broad",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/18",
+    "link": "UP",
+    "speed": "100M(a)",
+    "duplex": "F(a) A",
+    "type": "A",
+    "pvid": "71",
+    "description": "NMS Eksternal Alarm KETAPAN",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/19",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "#YN48B 04000147162 IBBC; 14",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/20",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "121303001359 Intrnet,121401",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/21",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A T",
+    "type": "T",
+    "pvid": "1",
+    "description": "\"Kementrian BUMN Desa Ketap",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/22",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "F A",
+    "type": "A",
+    "pvid": "1678",
+    "description": "",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/23",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "#KJBMB 04000356882 IBBC 100",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "GE1/0/24",
+    "link": "UP",
+    "speed": "1G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "Trunk To JATIM-UP3.BANYUWAN",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "XGE1/0/25",
+    "link": "UP",
+    "speed": "10G(a)",
+    "duplex": "F(a) T",
+    "type": "T",
+    "pvid": "1",
+    "description": "Trunk to JATIM-KETAPANG.BAN",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "XGE1/0/26",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "XGE1/0/27",
+    "link": "DOWN",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.25.142.90"
+  },
+  {
+    "interface": "XGE1/0/28",
+    "link": "ADM",
+    "speed": "auto",
+    "duplex": "A A",
+    "type": "A",
+    "pvid": "1",
+    "description": "",
+    "ip": "172.25.142.90"
+  }
+]

@@ -1,0 +1,41 @@
+
+************************************************************
+* THIS SYSTEM IS THE PROPERTY OF PT INDONESIA COMNETS PLUS *
+*              Maintenance Partner: niagamas               *
+*              Email: info@niagamas-setia.com              *
+************************************************************
+JATIM-PONOROGO-BD.S2936F-CPE-01#show interface brief
+Port    Description           Status    Vlan        Duplex   Speed    Type
+g0/1                          down      1           auto     auto     Giga-TX          
+g0/2    p2p.temp              down      7           auto     auto     Giga-TX          
+g0/3                          down      1           auto     auto     Giga-TX          
+g0/4                          down      1           auto     auto     Giga-TX          
+g0/5                          down      1           auto     auto     Giga-TX          
+g0/6                          down      1           auto     auto     Giga-TX          
+g0/7                          down      1           auto     auto     Giga-TX          
+g0/8    030304995747 PLN UP3 Ponorogo Jl.Arief Rahman Hakim Km 1 Ponorogo [172.28.75.119/28]
+                              down      Trunk(1)    auto     auto     Giga-TX          
+g0/9    01000145942 Metro Restu Panca Alam IDC Duren Tiga - Dukuh Josari Kulon [NMS 172.28.65.188/28]
+                              down      Trunk(1)    auto     1000Mb   Giga-FX          
+g0/10   010000028240197 IPVPN PLN Disjatim UPJ Balong [NMS 172.28.69.99/29][515413091450 Stroomnet 172.28.69.98/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/11   04000148043 IIX Indomarco Prismatama (JOMBANG) (TTRH) Letjend Suprapto No.19 [NMS 172.28.69.101/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/12   04000148040 IIX Indomarco Prismatama (JOMBANG) (TW5H) Ponorogo - Wonogiri/004 [NMS 172.28.69.100/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/13   04000148047 IIX Indomarco Prismatama (JOMBANG) (FC5P) Jendral Sudirman Ponorogo [NMS 172.28.69.102/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/14   #WXMR09 04000321414 Internet Broadband Indonesia Comnets Plus - Balai Desa Morosari [IP NMS : 172.28.75.125/28]
+                              down      Trunk(1)    auto     auto     Giga-FX          
+g0/15   04000148096 IIX Indomarco Prismatama (JOMBANG) (FZWN) Jl. Raya Ponorogo Solo/004 [NMS 172.28.69.178/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/16   141401001947 IBBC 20 Mbps UP3 Ponorogo Lt.1 [NMS 172.28.69.105/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/17   04000357542 Internet Summit Oto Finance Jl Basuki Rahmat No 26A-26B, Ponorogo [NMS 172.28.75.114/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/18   141401001891 IBBC Diskominfo Ponorogo Free Wifi Kominfo Site Rumah Dinas Bupati [172.28.85.233/27]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/19   515413384341 Iconnet Pacitan - PT LDN (Desa Mrayan Ngrayun) Desa Mrayan, Ngrayun[NMS 172.28.69.184/28]
+                              down      Trunk(1)    auto     auto     Giga-FX          
+g0/20   515411226489 Lentera Digital Nusantara Jalan Raya Baosan Kidul Nomor 1 [NMS 172.28.69.183/28]
+                              down      Trunk(1)    auto     auto

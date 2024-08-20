@@ -1,0 +1,355 @@
+**************[2J[1;1H
+JATIM-UPJ.TUBAN-ZYXEL.MGS3520-CPE-02>show interface brief
+Port    Desc   Link shutdn Speed         Pri PVID Mode TagVlan                                                                                             UtVlan
+e0/0/1         down false  auto          0   1    acc                                                                                                      1
+e0/0/2         down false  auto          0   1    acc                                                                                                      1
+e0/0/3         down false  auto          0   1    acc                                                                                                      1
+e0/0/4         down false  auto          0   1    acc                                                                                                      1
+e0/0/5  040001 up   false  auto-f1000    0   1    trk  14,2883                                                                                             1
+        42726                                                                                                                                              
+        Intern                                                                                                                                             
+        et Bro                                                                                                                                             
+        adband                                                                                                                                             
+         SMK N                                                                                                                                             
+        egeri                                                                                                                                              
+        Widang                                                                                                                                             
+         Jl. B                                                                                                                                             
+        rawija                                                                                                                                             
+        ya No.                                                                                                                                             
+        350 [N                                                                                                                                             
+        MS 172                                                                                                                                             
+        .28.65                                                                                                                                             
+        .230/2                                                                                                                                             
+        8]                                                                                                                                                 
+e0/0/6  [04000 up   false  auto-f1000    0   1    trk  14,1132,2809,3060                                                                                   1
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        128917                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+        010001                                                                                                                                             
+        28915                                                                                                                                              
+        Metro]                                                                                                                                             
+         Desa                                                                                                                                              
+        Tegala                                                                                                                                             
+        gung K                                                                                                                                             
+        ec. Se                                                                                                                                             
+        mandin                                                                                                                                             
+        g [NMS                                                                                                                                             
+         172.2                                                                                                                                             
+        8.52.9                                                                                                                                             
+        0/28]                                                                                                                                              
+e0/0/7  [04000 up   false  auto-f1000    0   1    trk  14,1132,2883,3060                                                                                   1
+        128922                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+        010001                                                                                                                                             
+        28921                                                                                                                                              
+        Metro]                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K         Desa                                                                                                                                              
+        Boto K                                                                                                                                             
+        ec. Se                                                                                                                                             
+        mandin                                                                                                                                             
+        g [NMS                                                                                                                                             
+         172.2                                                                                                                                             
+        8.52.8                                                                                                                                             
+        9/28]                                                                                                                                              
+e0/0/8  [04000 up   false  auto-f1000    0   1    trk  14,1132,2883,3060                                                                                   1
+        129004                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+        010001                                                                                                                                             
+        29003                                                                                                                                              
+        Metro]                                                                                                                                             
+         Desa                                                                                                                                              
+        Jadi K                                                                                                                                             
+        ec. Se                                                                                                                                             
+        mandin                                                                                                                                             
+        g [NMS                                                                                                                                             
+         172.2                                                                                                                                             
+        8.52.8                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        8/28]                                                                                                                                              
+e0/0/9  [04000 up   false  auto-f1000    0   1    trk  14,1132,2883,3060                                                                                   1
+        129159                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+        010001                                                                                                                                             
+        29155                                                                                                                                              
+        Metro]                                                                                                                                             
+         Desa                                                                                                                                              
+        Prungg                                                                                                                                             
+        ahan K                                                                                                                                             
+        ulon K                                                                                                                                             
+        ec. Se                                                                                                                                             
+        mandin                                                                                                                                             
+        g [NMS                                                                                                                                             
+         172.2                                                                                                                                             
+        8.52.9                                                                                                                                             
+        1/28]                                                                                                                                              
+e0/0/10 [04000 up   false  auto-f1000    0   1    trk  14,1132,2883,3060                                                                                   1
+        129164                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        010001                                                                                                                                             
+        29162                                                                                                                                              
+        Metro]                                                                                                                                             
+         Desa                                                                                                                                              
+        Prungg                                                                                                                                             
+        ahan W                                                                                                                                             
+        etan K                                                                                                                                             
+        ec. Se                                                                                                                                             
+        mandin                                                                                                                                             
+        g [NMS                                                                                                                                             
+         172.2                                                                                                                                             
+        8.52.9                                                                                                                                             
+        2/28]                                                                                                                                              
+e0/0/11 [04000 up   false  auto-f1000    0   1    trk  14,1132,2883,3060                                                                                   1
+        129178                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+        010001                                                                                                                                             
+        29174                                                                                                                                              
+        Metro]                                                                                                                                             
+         Desa                                                                                                                                              
+        Semand                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        ing Ke                                                                                                                                             
+        c. Sem                                                                                                                                             
+        anding                                                                                                                                             
+         [NMS                                                                                                                                              
+        172.28                                                                                                                                             
+        .52.93                                                                                                                                             
+        /28]                                                                                                                                               
+e0/0/12 [04000 up   false  auto-f1000    0   1    trk  14,1132,2883,3060                                                                                   1
+        129189                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+        010001                                                                                                                                             
+        29187                                                                                                                                              
+        Metro]                                                                                                                                             
+         Desa                                                                                                                                              
+        Penamb                                                                                                                                             
+        angan                                                                                                                                              
+        Kec. S                                                                                                                                             
+        emandi                                                                                                                                             
+        ng [NM                                                                                                                                             
+        S 172.                                                                                                                                             
+        28.52.                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        238/28                                                                                                                                             
+        ]                                                                                                                                                  
+e0/0/13 [04000 up   false  auto-f1000    0   1    trk  14,1132,2883,3060                                                                                   1
+        129196                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+        010001                                                                                                                                             
+        29195                                                                                                                                              
+        Metro]                                                                                                                                             
+         Desa                                                                                                                                              
+        Tunah                                                                                                                                              
+        Kec. S                                                                                                                                             
+        emandi                                                                                                                                             
+        ng [NM                                                                                                                                             
+        S 172.                                                                                                                                             
+        28.52.                                                                                                                                             
+        236/28                                                                                                                                             
+        ]                                                                                                                                                  
+e0/0/14 [04000 up   false  auto-f1000    0   1    trk  14,1132,2883,3060                                                                                   1
+        129241                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        010001                                                                                                                                             
+        29230                                                                                                                                              
+        Metro]                                                                                                                                             
+         Desa                                                                                                                                              
+        Gesing                                                                                                                                             
+         Kec.                                                                                                                                              
+        Semand                                                                                                                                             
+        ing [N                                                                                                                                             
+        MS 172                                                                                                                                             
+        .28.52                                                                                                                                             
+        .234/2                                                                                                                                             
+        8]                                                                                                                                                 
+e0/0/15 [04000 up   false  auto-f1000    0   1    trk  14,1132,2883,3060                                                                                   1
+        129246                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+        010001                                                                                                                                             
+        29244                                                                                                                                              
+        Metro]                                                                                                                                             
+         Desa                                                                                                                                              
+        Bektih                                                                                                                                             
+        arjo K                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        ec. Se                                                                                                                                             
+        mandin                                                                                                                                             
+        g [NMS                                                                                                                                             
+         172.2                                                                                                                                             
+        8.52.2                                                                                                                                             
+        28/28]                                                                                                                                             
+e0/0/16 [04000 up   false  auto-f1000    0   1    trk  14,1132,2883,3060,3070                                                                              1
+        128910                                                                                                                                             
+         Broad                                                                                                                                             
+        band][                                                                                                                                             
+        010001                                                                                                                                             
+        28905                                                                                                                                              
+        Metro]                                                                                                                                             
+         Desa                                                                                                                                              
+        Bejagu                                                                                                                                             
+        ng Kec                                                                                                                                             
+        . Sema                                                                                                                                             
+        nding                                                                                                                                              
+        [NMS 1                                                                                                                                             
+        72.28.                                                                                                                                             
+        52.226                                                                                                                                             
+        /28]                                                                                                                                               
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[Ke0/0/17 010003 up   false  auto-f1000    0   1    trk  14,384                                                                                              1
+        57774                                                                                                                                              
+        IPVPN                                                                                                                                              
+        Cahaya                                                                                                                                             
+         Baja                                                                                                                                              
+        Sentos                                                                                                                                             
+        a Jl.                                                                                                                                              
+        Pahlaw                                                                                                                                             
+        an No.                                                                                                                                             
+        31, Do                                                                                                                                             
+        ndong                                                                                                                                              
+        [NMS 1                                                                                                                                             
+        72.28.                                                                                                                                             
+        92.150                                                                                                                                             
+        /28]                                                                                                                                               
+e0/0/18 010001 up   false  auto-f1000    0   1    trk  14,3560                                                                                             1
+        44867                                                                                                                                              
+        Metro                                                                                                                                              
+        P2MP D                                                                                                                                             
+        utakom                                                                                                                                             
+         Wibaw                                                                                                                                             
+        a Putr                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        a Node                                                                                                                                             
+         PT. B                                                                                                                                             
+        erkat                                                                                                                                              
+        Langge                                                                                                                                             
+        ng Suk                                                                                                                                             
+        ses Se                                                                                                                                             
+        jati [                                                                                                                                             
+        NMS 17                                                                                                                                             
+        2.28.6                                                                                                                                             
+        5.232/                                                                                                                                             
+        28]                                                                                                                                                
+e0/0/19 220905 down false  auto          0   1    trk  14,2888                                                                                             1
+        61311                                                                                                                                              
+        Stroom                                                                                                                                             
+        net -                                                                                                                                              
+        Kantor                                                                                                                                             
+         Tekni                                                                                                                                             
+        k ULP                                                                                                                                              
+        Tuban                                                                                                                                              
+        [NMS 1                                                                                                                                             
+        72.28.                                                                                                                                             
+        65.233                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        /28]                                                                                                                                               
+e0/0/20 040001 up   false  auto-f1000    0   1    trk  13,3142                                                                                             1
+        11199                                                                                                                                              
+        Comnet                                                                                                                                             
+        z Infr                                                                                                                                             
+        a Disk                                                                                                                                             
+        ominfo                                                                                                                                             
+         Tuban                                                                                                                                             
+         Taman                                                                                                                                             
+         Sleko                                                                                                                                             
+         Kebon                                                                                                                                             
+        sari 1                                                                                                                                             
+        72.25.                                                                                                                                             
+        158.20                                                                                                                                             
+        3/28                                                                                                                                               
+e0/0/21 040001 up   false  auto-f1000    0   1    trk  14,150                                                                                              1
+        47709                                                                                                                                              
+        Intern                                                                                                                                             
+        et PT.                                                                                                                                             
+         Jaya                                                                                                                                              
+        Anuger                                                                                                                                             
+        ah Yak                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        un Aba                                                                                                                                             
+        di Jl.                                                                                                                                             
+         Pangl                                                                                                                                             
+        ima Su                                                                                                                                             
+        dirman                                                                                                                                             
+         No.15                                                                                                                                             
+        1 Sido                                                                                                                                             
+        mulyo                                                                                                                                              
+        Tuban                                                                                                                                              
+        [NMS 1                                                                                                                                             
+        72.28.                                                                                                                                             
+        65.234                                                                                                                                             
+        /28]                                                                                                                                               
+e0/0/22 040001 up   false  auto-f1000    0   1    trk  14,47                                                                                               1
+        64902                                                                                                                                              
+        Intern                                                                                                                                             
+        et SMK                                                                                                                                             
+         N 2 T                                                                                                                                             
+        uban J                                                                                                                                             
+        l. Pro                                                                                                                                             
+        f. Moh                                                                                                                                             
+        . Yami                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        n [NMS                                                                                                                                             
+         172.1                                                                                                                                             
+        9.36.2                                                                                                                                             
+        29/28                                                                                                                                              
+        Vlan 1                                                                                                                                             
+        4]                                                                                                                                                 
+e0/0/23 040001 down false  auto          0   1    trk  13,3142                                                                                             1
+        11198                                                                                                                                              
+        Comnet                                                                                                                                             
+        z Infr                                                                                                                                             
+        a Disk                                                                                                                                             
+        ominfo                                                                                                                                             
+         Tuban                                                                                                                                             
+         Masji                                                                                                                                             
+        d Agun                                                                                                                                             
+        g Tuba                                                                                                                                             
+        n Jl.                                                                                                                                              
+        Bonang                                                                                                                                             
+        ,Kutor                                                                                                                                             
+        ejo Ka                                                                                                                                             
+        bupate                                                                                                                                             
+        n Tuba                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K        n 172.                                                                                                                                             
+        25.158                                                                                                                                             
+        .204/2                                                                                                                                             
+        8                                                                                                                                                  
+e0/0/24 Trunk  up   false  auto-f1000    0   1    trk  all                                                                                                 1
+        to JAT                                                                                                                                             
+        IM-UPJ                                                                                                                                             
+        .TUBAN                                                                                                                                             
+        -ASR92                                                                                                                                             
+        0-UPE-                                                                                                                                             
+        01                                                                                                                                                 
+e0/0/25 040001 down false  f1000         0   1    hyb                                                                                                      1
+        11123;                                                                                                                                             
+        040001                                                                                                                                             
+        11122;                                                                                                                                             
+        040001                                                                                                                                             
+        11118                                                                                                                                              
+        Comnet                                                                                                                                             
+        z Infr                                                                                                                                             
+        a Disk                                                                                                                                             
+        ominfo                                                                                                                                             
+         Tuban                                                                                                                                             
+....press ENTER to next line, CTRL_C to quit, other key to next page.... [73D[K         Alun                                                                                                                                              
+        Alun T                                                                                                                                             
+        uban 1                                                                                                                                             
+        72.25.                                                                                                                                             
+        158.20                                                                                                                                             
+        5/28                                                                                                                                               
+e0/0/26 040001 up   false  f1000-f1000   0   1    trk  13,2884                                                                                             1
+        21036                                                                                                                                              
+        Intern                                                                                                                                             
+        et Bro                                                                                                                                             
+        adband                                                                                                                                             
+         PPLPT                                                                                                                                             
+         PGRI                                                                                                                                              
+        Tuban                                                                                                                                              
+        [NMS 1                                                                                                                                             
+        72.26.                                                                                                                                             
+        143.82                                                                                                                                             
+        /29]                                                                                                                                               
+e0/0/27        down false  f10000        0   1    hyb                                                                                                      1
+e0/0/28        down false  f10000        0   1    hyb                                                                                                      1
+Total entries: 28 .
+
+JATIM-UPJ.TUBAN-ZYXEL.MGS3520-CPE-02>

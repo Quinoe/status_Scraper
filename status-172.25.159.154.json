@@ -1,0 +1,402 @@
+[
+  {
+    "port": "g0/1",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/2",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/3",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/4",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/5",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/6",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/7",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/8",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/9",
+    "description": "04000358271 IBBC Sumber Arta Dsn. Tegalboro RT. 11 RW. 2, Pacing [NMS 172.27.2.232/27]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/10",
+    "description": "518010008521 Iconnet Mujiharto Agung Saputra [NMS 172.28.70.195/28]",
+    "status": "down Trunk(1) auto auto Giga-FX",
+    "vlan": "down Trunk(1) auto auto Giga-FX",
+    "duplex": "down Trunk(1) auto auto Giga-FX",
+    "speed": "down Trunk(1) auto auto Giga-FX",
+    "type": "down Trunk(1) auto auto Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/11",
+    "description": "04000313904;04000173411 Internet Broadband CV Bersemi Jl Raya PUK Balen (NMS 172.28.70.200/28)",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/12",
+    "description": "010000028240163 IPVPN][0518010017415 Stroomnet 20] PLN Disjatim UPJ Bojonegoro [NMS 172.28.70.196/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/13",
+    "description": "DESA MERGOASRI up Trunk(1) full 1000Mb Giga-FX",
+    "status": "DESA MERGOASRI up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "DESA MERGOASRI up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "DESA MERGOASRI up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "DESA MERGOASRI up Trunk(1) full 1000Mb Giga-FX",
+    "type": "DESA MERGOASRI up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/14",
+    "description": "shutdown 1 auto auto Giga-FX-SFP",
+    "status": "shutdown 1 auto auto Giga-FX-SFP",
+    "vlan": "shutdown 1 auto auto Giga-FX-SFP",
+    "duplex": "shutdown 1 auto auto Giga-FX-SFP",
+    "speed": "shutdown 1 auto auto Giga-FX-SFP",
+    "type": "shutdown 1 auto auto Giga-FX-SFP",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/15",
+    "description": "04000362733 IIX Only Indomarco Prismatama Jombang FYFM Jl. Ngasem Kab. Bojonegoro [NMS 172.27.2.234/27]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/16",
+    "description": "141202002626 Metro P2MP PT Inti Data Telematika Stasiun MSFR, Jl. WR. Supratman No.3 [SW 172.27.101.14/30]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/17",
+    "description": "shutdown 1 auto auto Giga-FX",
+    "status": "shutdown 1 auto auto Giga-FX",
+    "vlan": "shutdown 1 auto auto Giga-FX",
+    "duplex": "shutdown 1 auto auto Giga-FX",
+    "speed": "shutdown 1 auto auto Giga-FX",
+    "type": "shutdown 1 auto auto Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/18",
+    "description": "04000141444 IIX Indomarco Prismatama (JOMBANG) (TXNT) Kanor Bojonegoro [NMS 172.28.66.71/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/19",
+    "description": "01000127769 IPVPN BCA KCP Bojonegoro [NMS 172.26.143.28/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/20",
+    "description": "04000127496 IIX Only Indomarco Prismatama (Jombang) (T7IO) (DIPONEGORO BOJONEGORO) [NMS 172.26.143.27/29",
+    "status": "down Trunk(1) auto auto Giga-FX",
+    "vlan": "down Trunk(1) auto auto Giga-FX",
+    "duplex": "down Trunk(1) auto auto Giga-FX",
+    "speed": "down Trunk(1) auto auto Giga-FX",
+    "type": "down Trunk(1) auto auto Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/21",
+    "description": "[01000203087 IPVPN][04000349576 Inet] Pertamina EP Cepu Site JTB Jambaran Tiung Biru [NMS 172.28.80.20]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/22",
+    "description": "#1T0QHR 04000131174,04000339294 IBB Media Indo Brsma-Jasaraharja [NMS : 172.26.143.30/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/23",
+    "description": "141202002611 Metro PT. Iforte Solusi Infotek Poltekkes Surabaya [172.28.51.226/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/24",
+    "description": "04000130631 Inet;04000177475 IBBC Bend. SMAN 1 Soko[NMS 172.28.51.228/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/25",
+    "description": "04000185962 Internet Corporate CV.Rayyan Mandiri Jl. Dusun Sawah Jawa Timur [172.28.70.201/28]",
+    "status": "down Trunk(1) auto auto Giga-FX",
+    "vlan": "down Trunk(1) auto auto Giga-FX",
+    "duplex": "down Trunk(1) auto auto Giga-FX",
+    "speed": "down Trunk(1) auto auto Giga-FX",
+    "type": "down Trunk(1) auto auto Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/26",
+    "description": "04000134201 Inet BRoadband;04000134200 Metro Balai Desa Parangbatu Kec Parengan [172.28.51.230/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/27",
+    "description": "04000134077 Inet Broadband;04000134076 Metro Balai Desa Cengkong Kec Parengan [172.28.66.66/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/28",
+    "description": "04000135004 Inet BRoadband;01000134998 Metro Balai Desa Brangkal Kec Parengan [172.28.51.229/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/29",
+    "description": "04000132739 Internet Broadband][01000132738 Metro] Balai Desa Sendangrejo Kec Parengan [MMS 172.28.66.67/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/30",
+    "description": "04000202781 Internet PT Kebun Tebu Mas Jl. Raya Ponco - Bojonegoro, Bedrek [172.28.70.205/28]",
+    "status": "shutdown Trunk(1) auto 1000Mb Giga-FX",
+    "vlan": "shutdown Trunk(1) auto 1000Mb Giga-FX",
+    "duplex": "shutdown Trunk(1) auto 1000Mb Giga-FX",
+    "speed": "shutdown Trunk(1) auto 1000Mb Giga-FX",
+    "type": "shutdown Trunk(1) auto 1000Mb Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/31",
+    "description": "shutdown 1 auto auto Giga-FX",
+    "status": "shutdown 1 auto auto Giga-FX",
+    "vlan": "shutdown 1 auto auto Giga-FX",
+    "duplex": "shutdown 1 auto auto Giga-FX",
+    "speed": "shutdown 1 auto auto Giga-FX",
+    "type": "shutdown 1 auto auto Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "g0/32",
+    "description": "01000331847 Metro PT.Teknologi Abyakta Utama Jl.Raya Dander - RT.05 RW. 01,Sampang (Pindah NE8K Bojonegoro P.0/5/3)",
+    "status": "shutdown Trunk(1) auto auto Giga-FX",
+    "vlan": "shutdown Trunk(1) auto auto Giga-FX",
+    "duplex": "shutdown Trunk(1) auto auto Giga-FX",
+    "speed": "shutdown Trunk(1) auto auto Giga-FX",
+    "type": "shutdown Trunk(1) auto auto Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "tg0/1",
+    "description": "down 1 full 10000Mb 10Giga-FX",
+    "status": "down 1 full 10000Mb 10Giga-FX",
+    "vlan": "down 1 full 10000Mb 10Giga-FX",
+    "duplex": "down 1 full 10000Mb 10Giga-FX",
+    "speed": "down 1 full 10000Mb 10Giga-FX",
+    "type": "down 1 full 10000Mb 10Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "tg0/2",
+    "description": "down 1 full 10000Mb 10Giga-FX-SFP",
+    "status": "down 1 full 10000Mb 10Giga-FX-SFP",
+    "vlan": "down 1 full 10000Mb 10Giga-FX-SFP",
+    "duplex": "down 1 full 10000Mb 10Giga-FX-SFP",
+    "speed": "down 1 full 10000Mb 10Giga-FX-SFP",
+    "type": "down 1 full 10000Mb 10Giga-FX-SFP",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "tg0/3",
+    "description": "down 1 full 10000Mb 10Giga-FX",
+    "status": "down 1 full 10000Mb 10Giga-FX",
+    "vlan": "down 1 full 10000Mb 10Giga-FX",
+    "duplex": "down 1 full 10000Mb 10Giga-FX",
+    "speed": "down 1 full 10000Mb 10Giga-FX",
+    "type": "down 1 full 10000Mb 10Giga-FX",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "tg0/4",
+    "description": "Trunk to JATIM-UP3.BOJONEGORO-ASR920.12SZ-UPE-01_Te0/0/6",
+    "status": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "speed": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "type": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "v1",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "v13",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "v1995",
+    "description": "Temporary up",
+    "status": "Temporary up",
+    "vlan": "Temporary up",
+    "duplex": "Temporary up",
+    "speed": "Temporary up",
+    "type": "Temporary up",
+    "ip": "172.25.159.154"
+  },
+  {
+    "port": "n0",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.25.159.154"
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "port": "g0/1",
+    "description": "NMS Eksternal Alarm ULP Magetan Mini ODC [172.30.51.154/29]",
+    "status": "up 711 full 100Mb Giga-TX",
+    "vlan": "up 711 full 100Mb Giga-TX",
+    "duplex": "up 711 full 100Mb Giga-TX",
+    "speed": "up 711 full 100Mb Giga-TX",
+    "type": "up 711 full 100Mb Giga-TX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/2",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/3",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/4",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/5",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/6",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/7",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/8",
+    "description": "down 1 auto auto Giga-TX",
+    "status": "down 1 auto auto Giga-TX",
+    "vlan": "down 1 auto auto Giga-TX",
+    "duplex": "down 1 auto auto Giga-TX",
+    "speed": "down 1 auto auto Giga-TX",
+    "type": "down 1 auto auto Giga-TX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/9",
+    "description": "01000149869 IPVPN Badan Pendapatan Daerah Prov Jatim Jl. Jend Sudirman Magetan[172.28.67.149/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/10",
+    "description": "shutdown 1 auto auto Giga-FX",
+    "status": "shutdown 1 auto auto Giga-FX",
+    "vlan": "shutdown 1 auto auto Giga-FX",
+    "duplex": "shutdown 1 auto auto Giga-FX",
+    "speed": "shutdown 1 auto auto Giga-FX",
+    "type": "shutdown 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/11",
+    "description": "shutdown 1 auto auto Giga-FX",
+    "status": "shutdown 1 auto auto Giga-FX",
+    "vlan": "shutdown 1 auto auto Giga-FX",
+    "duplex": "shutdown 1 auto auto Giga-FX",
+    "speed": "shutdown 1 auto auto Giga-FX",
+    "type": "shutdown 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/12",
+    "description": "shutdown 1 auto auto Giga-FX",
+    "status": "shutdown 1 auto auto Giga-FX",
+    "vlan": "shutdown 1 auto auto Giga-FX",
+    "duplex": "shutdown 1 auto auto Giga-FX",
+    "speed": "shutdown 1 auto auto Giga-FX",
+    "type": "shutdown 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/13",
+    "description": "01000181089 Metro BSI KCP Magetan - Rempoa [172.28.67.154/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/14",
+    "description": "shutdown 1 auto auto Giga-FX",
+    "status": "shutdown 1 auto auto Giga-FX",
+    "vlan": "shutdown 1 auto auto Giga-FX",
+    "duplex": "shutdown 1 auto auto Giga-FX",
+    "speed": "shutdown 1 auto auto Giga-FX",
+    "type": "shutdown 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/15",
+    "description": "shutdown 1 auto auto Giga-FX",
+    "status": "shutdown 1 auto auto Giga-FX",
+    "vlan": "shutdown 1 auto auto Giga-FX",
+    "duplex": "shutdown 1 auto auto Giga-FX",
+    "speed": "shutdown 1 auto auto Giga-FX",
+    "type": "shutdown 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/16",
+    "description": "shutdown 1 auto auto Giga-FX",
+    "status": "shutdown 1 auto auto Giga-FX",
+    "vlan": "shutdown 1 auto auto Giga-FX",
+    "duplex": "shutdown 1 auto auto Giga-FX",
+    "speed": "shutdown 1 auto auto Giga-FX",
+    "type": "shutdown 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/17",
+    "description": "Indikasi Port Rusak down Trunk(1) auto auto Giga-FX",
+    "status": "Indikasi Port Rusak down Trunk(1) auto auto Giga-FX",
+    "vlan": "Indikasi Port Rusak down Trunk(1) auto auto Giga-FX",
+    "duplex": "Indikasi Port Rusak down Trunk(1) auto auto Giga-FX",
+    "speed": "Indikasi Port Rusak down Trunk(1) auto auto Giga-FX",
+    "type": "Indikasi Port Rusak down Trunk(1) auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/18",
+    "description": "shutdown Trunk(1) auto auto Giga-FX",
+    "status": "shutdown Trunk(1) auto auto Giga-FX",
+    "vlan": "shutdown Trunk(1) auto auto Giga-FX",
+    "duplex": "shutdown Trunk(1) auto auto Giga-FX",
+    "speed": "shutdown Trunk(1) auto auto Giga-FX",
+    "type": "shutdown Trunk(1) auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/19",
+    "description": "04000306975 IBBC PT XL Axiata TBK Bank BNI - KCP Magetan, Jl. Jend. Sudirman No.158 Tambran,172.28.77.216/28",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/20",
+    "description": "01000330839 Metro; 141202002614 Metro Poltekkes Surabaya Jl. Tripandita No.06 [172.28.77.222/28]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/21",
+    "description": "141202002610 Metro PT. Iforte Solusi Infotek Poltekkes Surabaya Jl. S. Parman [172.28.87.162/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX",
+    "type": "up Trunk(1) full 1000Mb Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/22",
+    "description": "04000362725 IIX Only Indomarco Prismatama Jombang F973 Parang Magetan Jl. Raya Parang - Poncol [NMS 172.28.87.163/29]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/23",
+    "description": "111303013390 Internet BPJS Kesehatan Kabupaten Magetan [NMS 172.27.105.202/29][IP 124.158.172.72]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/24",
+    "description": "141401001675 IBBC 500Mbps SMKN 1 Poncol Jl.Raya Genilangit Poncol [SW 172.27.101.114/30]",
+    "status": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "speed": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "type": "up Trunk(1) full 1000Mb Giga-FX-SFP",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/25",
+    "description": "down 1 auto auto Giga-FX",
+    "status": "down 1 auto auto Giga-FX",
+    "vlan": "down 1 auto auto Giga-FX",
+    "duplex": "down 1 auto auto Giga-FX",
+    "speed": "down 1 auto auto Giga-FX",
+    "type": "down 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/26",
+    "description": "down 1 auto auto Giga-FX",
+    "status": "down 1 auto auto Giga-FX",
+    "vlan": "down 1 auto auto Giga-FX",
+    "duplex": "down 1 auto auto Giga-FX",
+    "speed": "down 1 auto auto Giga-FX",
+    "type": "down 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/27",
+    "description": "down 1 auto auto Giga-FX",
+    "status": "down 1 auto auto Giga-FX",
+    "vlan": "down 1 auto auto Giga-FX",
+    "duplex": "down 1 auto auto Giga-FX",
+    "speed": "down 1 auto auto Giga-FX",
+    "type": "down 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/28",
+    "description": "down 1 auto auto Giga-FX",
+    "status": "down 1 auto auto Giga-FX",
+    "vlan": "down 1 auto auto Giga-FX",
+    "duplex": "down 1 auto auto Giga-FX",
+    "speed": "down 1 auto auto Giga-FX",
+    "type": "down 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/29",
+    "description": "down 1 auto auto Giga-FX",
+    "status": "down 1 auto auto Giga-FX",
+    "vlan": "down 1 auto auto Giga-FX",
+    "duplex": "down 1 auto auto Giga-FX",
+    "speed": "down 1 auto auto Giga-FX",
+    "type": "down 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/30",
+    "description": "down 1 auto auto Giga-FX",
+    "status": "down 1 auto auto Giga-FX",
+    "vlan": "down 1 auto auto Giga-FX",
+    "duplex": "down 1 auto auto Giga-FX",
+    "speed": "down 1 auto auto Giga-FX",
+    "type": "down 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/31",
+    "description": "down 1 auto auto Giga-FX",
+    "status": "down 1 auto auto Giga-FX",
+    "vlan": "down 1 auto auto Giga-FX",
+    "duplex": "down 1 auto auto Giga-FX",
+    "speed": "down 1 auto auto Giga-FX",
+    "type": "down 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "g0/32",
+    "description": "down 1 auto auto Giga-FX",
+    "status": "down 1 auto auto Giga-FX",
+    "vlan": "down 1 auto auto Giga-FX",
+    "duplex": "down 1 auto auto Giga-FX",
+    "speed": "down 1 auto auto Giga-FX",
+    "type": "down 1 auto auto Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "tg0/1",
+    "description": "Trunk to JATIM-MINI.ODC.ULP.MAGETAN-ASR920.12SZ-UPE-01",
+    "status": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "vlan": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "duplex": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "speed": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "type": "up Trunk(1) full 10000Mb 10Giga-FX-SFP",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "tg0/2",
+    "description": "down 1 full 10000Mb 10Giga-FX",
+    "status": "down 1 full 10000Mb 10Giga-FX",
+    "vlan": "down 1 full 10000Mb 10Giga-FX",
+    "duplex": "down 1 full 10000Mb 10Giga-FX",
+    "speed": "down 1 full 10000Mb 10Giga-FX",
+    "type": "down 1 full 10000Mb 10Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "tg0/3",
+    "description": "down 1 full 10000Mb 10Giga-FX",
+    "status": "down 1 full 10000Mb 10Giga-FX",
+    "vlan": "down 1 full 10000Mb 10Giga-FX",
+    "duplex": "down 1 full 10000Mb 10Giga-FX",
+    "speed": "down 1 full 10000Mb 10Giga-FX",
+    "type": "down 1 full 10000Mb 10Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "tg0/4",
+    "description": "down 1 full 10000Mb 10Giga-FX",
+    "status": "down 1 full 10000Mb 10Giga-FX",
+    "vlan": "down 1 full 10000Mb 10Giga-FX",
+    "duplex": "down 1 full 10000Mb 10Giga-FX",
+    "speed": "down 1 full 10000Mb 10Giga-FX",
+    "type": "down 1 full 10000Mb 10Giga-FX",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "v1",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "v2",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "v5",
+    "description": "down",
+    "status": "down",
+    "vlan": "down",
+    "duplex": "down",
+    "speed": "down",
+    "type": "down",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "v14",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.28.67.74"
+  },
+  {
+    "port": "n0",
+    "description": "up",
+    "status": "up",
+    "vlan": "up",
+    "duplex": "up",
+    "speed": "up",
+    "type": "up",
+    "ip": "172.28.67.74"
+  }
+]

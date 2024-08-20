@@ -1,0 +1,140 @@
+
+
+JATIM-SHELTER.GI.NGAWI-ASR920-UPE-01#show interfaces description
+Interface                      Status         Protocol Description
+Gi0/0/0                        up             up       Trunk to JATIM-SHELTER.GI.NGAWI-ZYXEL.MGS3520-CPE-01
+Gi0/0/1                        down           down     Trunk to JATENG-GI.SRAGEN-C3750-CPE-02 [NMS:172.25.17.166/29] (Backup)
+Gi0/0/2                        down           down     "Trunk to JATIM-MANTINGAN-ZYXEL.MGS3520-CPE-02 [NMS:172.25.10.252/29] delete ANDOP 20210115-1"
+Gi0/0/3                        up             up       141204000019 Metro P2P Pt Data Arta Sedaya - Data Arta Sedaya Ngawi Kluwen
+Gi0/0/4                        up             up       Trunk to JATIM-SHELTER.GI.NGAWI-C2960-CPE-01
+Gi0/0/5                        down           down     
+Gi0/0/6                        admin down     down     
+Gi0/0/7                        down           down     
+Gi0/0/8                        down           down     
+Gi0/0/9                        down           down     
+Gi0/0/10                       down           down     
+Gi0/0/11                       down           down     
+Gi0/0/12                       down           down     
+Gi0/0/13                       down           down     
+Gi0/0/14                       down           down     
+Gi0/0/15                       down           down     
+Gi0/0/16                       down           down     
+Gi0/0/17                       down           down     
+Gi0/0/18                       down           down     
+Gi0/0/19                       down           down     
+Gi0/0/20                       down           down     
+Gi0/0/21                       down           down     
+Gi0/0/22                       down           down     Link to JATIM-MINI.ODC.UPJ.NGAWI-ASR920-UPE-01
+Gi0/0/23                       down           down     
+Te0/0/24                       up             up       Link to JATIM-SHELTER.GI.NGAWI-ASR920.12SZ-UPE-02
+Te0/0/25                       up             up       Link to JATIM-SHELTER.GI.NGAWI-NE8000.M14-NPE-01_Gi0/4/0
+Te0/0/26                       up             up       Trunk to JATIM-SHELTER.NGAWI-RC-OLT-01
+Te0/0/27                       up             up       Link to JATIM-ODC.MANTINGAN-ASR920-UPE-01
+Gi0                            down           down     
+BD14                           up             up       description NMS Catalyst dan Telways [172.25.17.166 booked switch 3750]
+BD15                           up             up       NMS Hariff Shelter Ngawi
+BD17                           admin down     down     NMS sementara area sragen activate di jajar MX dan hapus ini kalo FO dah naik
+BD18                           up             up       Monitoring NMS
+BD21                           up             up       NMS L2
+BD25                           up             up       01000109877 IPVPN Sumber Alfaria Trijaya O358 KANDANGAN NGAWI / F - JL. RING ROAD [DCN Mikrotik:172.40.6.2/29]
+BD27                           up             up       01000178200 IPVPN Sumber Alfaria Trijaya O531 Ring Road Ngawi / F
+BD29                           up             up       01000178132 IPVPN Sumber Alfaria Trijaya Geneng Ngawi [0244] 
+BD30                           up             up       01000178139 IPVPN Sumber Alfaria Trijaya O245 Paron Ngawi
+BD37                           up             up       01000189095 IPVPN Mitra Visioner Pratama Ngawi [NMS 172.28.77.2/29]
+BD51                           up             up       NMS Eksternal Alarm GI NGAWI PLC  [172.30.54.58/29]
+BD60                           up             up       01000321927 IPVPN BCA KCP Ngawi (SLN), JL. Sultan Agung No. 52 Ngawi
+BD70                           up             up       01000030700 IPVPN SCADA Premium PT PLN GI NGAWI Main
+BD75                           up             up       04000317810 IIX only Indomarco Prismatama-(Jombang} (FT5Y)(Supriyadi Karangsari) Jl. Supriyadi, Ngawi
+BD77                           up             up       01000030645 IPVPN Scada Premium PLN APD Disjatim GI Mranggen [BACKUP]
+BD85                           up             up       04000357513 Internet Summit Oto Finance Jl. A Yani 206 RT001 RW001 Ds Beran, Ngawi
+BD100                          up             up       0990000320477453 IPVPN CCTV VOIP ICON+ POP NGAWI GI SHELTER [ext 5098]
+BD113                          up             up       01000030672 IPVPN SCADA Premium PT PLN GI CARUBAN [backup]
+BD145                          up             up       04000320983 IIX Indomarco Prismatama-(JOMBANG)(TPVL)(RAYA NGAWI -Caruban Km.5) Jl. Raya Ngawi-Caruban
+BD148                          up             up       01000030703 IPVPN Scada Premium PLN APD Disjatim GI Magetan [BACKUP]
+BD177                          up             up       01000091821 IPVPN Kementrian PUPR Dirjen Sumber Daya Air Direktorat Bina Operasi dan Pemeliharaan Bendungan Sangiran  [NMS 172.26.141.122/29]
+BD178                          up             up       01000091827 IPVPN Kementrian PUPR Dirjen Sumber Daya Air Direktorat Bina Operasi dan Pemeliharaan Bendungan Pondok  [NMS 172.25.17.164/29]
+BD195                          up             up       04000317242 Internet Cipta Gagas Lestari-Jl. Soekarno Hatta Kartoharjo Ngawi
+BD200                          up             up       0990000320499728 IPVPN BADAN PENDAPATAN DAERAH PROV JATIM UPTD Ngawi Jl Hasanudin No 56 Ngawi
+BD231                          up             up       01000111608 IPVPN PT Lintas Data Prima Kecamatan Pilangkenceng Kenongo Kenongorejo Madiun [NMS 172.26.141.124/29]
+BD433                          up             up       04000331863 IIX Indomarco Prismatama Jombang FEUF Karang Tengah Prandon [NMS SWitch 172.28.74.107/28]
+BD721                          up             up       04000344959 IIX Indomarco Prismatama-(JOMBANG)(TELM)(FRESH NGAWI 2) JL.A.YANI NO.101 KEL MARGOMULYO [NMS 172.28.74.109/28]
+BD745                          up             up       141303002253 Penambahan IPv4; 141303002252 Internet PT.WAI Hing Industrial Indonesia RAYA NGAWI CARUBAN KM 04 KARANGTENGAH [NMS 172.28.94.68/28]
+BD1130                         up             up       NMS DCN Mikrotik Alfa
+BD1132                         up             up       NMS MS
+BD1134                         down           down     NMS Retail
+BD1139                         up             up       NMS I see
+Lo0                            up             up       SHELTER NGAWI
+Vi4001                         down           down     
+pw100001                       up             up       
+pw100002                       up             up       
+pw100003                       up             up       
+pw100004                       up             up       
+pw100005                       up             up       
+pw100007                       up             up       
+pw100009                       up             up       
+pw100011                       up             up       
+pw100013                       up             up       
+pw100015                       up             up       
+pw100017                       up             up       
+pw100018                       up             up       
+pw100019                       up             up       
+pw100020                       up             up       
+pw100021                       up             up       
+pw100025                       up             up       
+pw100027                       up             up       
+pw100028                       up             up       
+pw100029                       up             up       
+pw100031                       up             up       
+pw100032                       up             up       
+pw100033                       up             up       
+pw100034                       up             up       
+pw100036                       up             up       
+pw100038                       up             up       
+pw100040                       up             up       
+pw100042                       up             up       
+pw100044                       up             up       
+pw100046                       up             up       
+pw100048                       up             up       
+pw100050                       up             up       
+pw100052                       up             up       
+pw100053                       up             up       
+pw100054                       up             up       
+pw100055                       up             up       
+pw100060                       up             up       
+pw100061                       up             up       
+pw100062                       up             up       
+pw100064                       up             up       
+pw100065                       up             up       
+pw100066                       up             up       
+pw100069                       up             up       
+pw100072                       up             up       
+pw100073                       up             up       
+pw100074                       up             up       
+pw100075                       up             up       
+pw100080                       up             up       
+pw100081                       up             up       
+pw100082                       up             up       
+pw100083                       up             up       
+pw100087                       up             up       
+pw100088                       up             up       
+pw100089                       up             up       
+pw100090                       up             up       
+pw100091                       up             up       
+pw100092                       up             up       
+pw100093                       up             up       
+pw100094                       up             up       
+pw100095                       up             up       
+pw100096                       up             up       
+pw100097                       up             up       
+pw100098                       up             up       
+pw100099                       up             up       
+pw100100                       up             up       
+pw100101                       up             up       
+pw100102                       up             up       
+pw100103                       up             up       
+pw100104                       up             up       
+pw100105                       up             up       
+pw100108                       up             up       
+pw100111                       up             up       
+pw100112                       up             up       
+JATIM-SHELTER.GI.NGAWI-ASR920-UPE-01#

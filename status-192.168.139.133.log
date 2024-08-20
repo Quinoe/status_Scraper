@@ -1,0 +1,156 @@
+
+
+JATIM-UPJ.CARUBAN-ASR920-UPE-01#show interfaces description
+Interface                      Status         Protocol Description
+Gi0/0/0                        down           down     141303002163 Internet Jasamarga Ngawi Kertosono Kediri Plaza, Gerbang Tol Madiun  [MAIN] [SW 172.27.101.222/30]
+Gi0/0/1                        up             up       Trunk to JATIM-UPJ.CARUBAN-ZYXEL.MGS3520-CPE-02 [172.25.151.202/29]
+Gi0/0/2                        admin down     down     
+Gi0/0/3                        down           down     04000155086 Internet Giga Patra Multimedia Matok'an RT 002/001 Dsn. Gosong Ds. Durenan Germarang Kabupaten Madiun
+Gi0/0/4                        up             up       121303001291 Internet KAI Stasiun Caruban [NMS Switch 172.28.91.36/27][IPV4 103.206.241.104/32]
+Gi0/0/5                        up             up       141202002576 Metro Intidata Media Indonesia Jl. Banjar, Kadung, Sambongrejo
+Gi0/0/6                        up             up       Trunk To JATIM-PLTA.GOLANG-S2700-CPE-01
+Gi0/0/7                        up             up       Trunk To JATIM-PLTA.GIRINGAN-S2700-CPE-01
+Gi0/0/8                        up             up       111202018655 Mora Telematika Indonesia JIX Jogja - Universitas Sebelas Maret Kampus SV Madiun
+Gi0/0/9                        down           down     
+Gi0/0/10                       down           down     
+Gi0/0/11                       down           down     
+Gi0/0/12                       down           down     
+Gi0/0/13                       down           down     
+Gi0/0/14                       down           down     
+Gi0/0/15                       down           down     
+Gi0/0/16                       down           down     
+Gi0/0/17                       down           down     
+Gi0/0/18                       down           down     
+Gi0/0/19                       down           down     
+Gi0/0/20                       down           down     
+Gi0/0/21                       up             up       Trunk to JATIM-KEDUNGBANTENG-RC-OLT-01
+Gi0/0/22                       up             up       Trunk to JATIM-AREA.KALIABU-RC-OLT-01
+Gi0/0/23                       up             up       Trunk to JATIM-UPJ.CARUBAN-BD.S2936F-CPE-03
+Te0/0/24                       down           down     
+Te0/0/25                       up             up       Link to JATIM-ULP.CARUBAN-NE8000.M14-UPE-01_Ge0/3/0
+Te0/0/26                       up             up       Trunk to JATIM-PURWOSARI.CARUBAN-RC-OLT-02
+Te0/0/27                       up             up       Trunk To JATIM-PURWOSARI.CARUBAN-MA5801-OLT-01 [172.29.118.242/29]
+Gi0                            down           down     
+BD4                            up             up       010000028240167 IPVPN PLN Disjatim UPJ Caruban
+BD13                           up             up       NMS Switch
+BD14                           up             up       NMS Switch 
+BD25                           down           down     010000016240004 IPVPN PJB PLTA Giringan
+BD27                           up             up       01000133605 IPVPN Kementrian PUPR Ditjen Sumber Daya Air Direkotorat BIna Operasi dan Pemeliharaan Bendungan Notopuro [NMS 172.28.70.246/28]
+BD29                           up             up       140000008240558 IPVPN BRI Teras Pasar Sembung Talok Karangjati Ngawi
+BD35                           up             up       01000094762 IPVPN Bank BNI (E-Toll) Gerbang Tol Caruban Kasutan Madiun Jawa timur
+BD36                           up             up       01000318796 IPVPN Bank Mandiri KCP Madiun Caruban Jl. Ahmad Yani No. 43
+BD37                           down           down     04000155086 Internet Giga Patra Multimedia Matok'an RT 002/001 Dsn. Gosong Ds. Durenan Germarang Kabupaten Madiun
+BD39                           up             up       01000188107 IPVPN PLN UID JATIM SPKLU PLN REST AREA 626 A Jl Tol Solo Kertosono Saradan [NMS 172.28.70.250/28]
+BD43                           up             up       04000297117 IIX Indomarco (JOMBANG)(T04V)(KEDUNGGLAGAH KWADUNGAN/004) Ngawi [NMS 172.28.70.254/28]
+BD47                           up             up       04000297121 IIX Indomarco (JOMBANG)(TMFQ)(SAMBIROTO/004) [NMS 172.28.81.130/28]
+BD49                           up             up       0990000320499480 IPVPN BCA KCP Caruban Mejayan Jatim (032017)[sop ext2Mbps]
+BD50                           up             up       NMS#2
+BD51                           up             up       NMS#3
+BD60                           up             up       NMS MAF Madiun
+BD71                           up             up       NMS EA Open Area Caruban [172.30.51.170/29]; BALAI_DESA_PURWOSARI_CARUBAN [172.30.51.202/29]; GI Caruban PLC [172.30.53.226/29]; GI GIRINGAN [172.30.53.2/29]
+BD80                           up             up       01000030672 IPVPN SCADA Premium PT PLN GI CARUBAN Main [NMS 172.28.70.246/28]
+BD85                           up             up       04000130752 Telicon Premium PLN PJB Control Room PLTA Giringan
+BD91                           up             up       01000038401 IPVPN PLN UP2D JATIM Repeater Gemarang [NMS:172.25.149.186/29]
+BD97                           up             up       04000130754 Telicon Premium PLN PJB Control Room PLTA Golang [No Telicon : 83330]
+BD105                          up             up       [04000092288 Internet] [04000094143 IPv4 /29] SMKN Kare Jl. Raya Kare kepak Morang Morang Kare kabupaten Madiun [IP NMS : 172.25.151.204/29]
+BD130                          up             up       0990000320499735 IPVPN BADAN PENDAPATAN DAERAH PROVINSI JAWA TIMUR Payment Point Caruban, Jalan Madiun-Surabaya Balerejo Caruban
+BD135                          up             up       04000324206 IIX Only Indomarco Prismatama-(JOMBANG)(FXD6)(RAYA KWADUNGAN) JL. RAYA KWADUNGAN, Ngawi
+BD138                          up             up       01000091818 IPVPN Kementrian PUPR Dan Ditjen SDA Bendungan Dawuhan - Desa Sido Mulyo Kec Wono Asri
+BD139                          up             up       01000091824 IPVPN Kementrian PUPR Dan Ditjen SDA Bendungan Saradan - Desa Sugih Waras Kec Saradan
+BD177                          up             up       04000050157 IIX only PT Modul Intracs Yasatama Gerbang Tol Caruban Kasutan Kuwu Balarejo Kota Madiun JATIM [NMS 172.25.148.107/29]
+BD187                          up             up       04000121028 Internet Corporate Global Way Indonesia Pilangkenceng, Kabupaten Madiun [04000121030 IPv4 /28]
+BD200                          up             up       01000178185 IPVPN Sumber Alfaria Trijaya O333 Sambiroto Ngawi
+BD218                          up             up       01000109839 IPVPN Sumber Alfaria Trijaya 2A43 Kowang F [KOAM] [SDWAN]
+BD219                          up             up       01000109832 IPVPN Sumber Alfaria Trijaya 2A54 Desa Garon
+BD222                          up             up       01000109840 IPVPN PT.SUMBER ALFARIA TRIJAYA 2AG8 JERUK GULUNG KAB.MADIUN NMS HP
+BD228                          up             up       04000344887 IIX Only Indomarco Prismatama Jombang FZ7C Jl. Raya Ngawi Caruban [NMS 172.28.91.53/27]
+BD261                          up             up       01000091666 IPVPN Kementrian PUPR Dan Dirjen SDA Bendungan Kedung Brubus - Desa Duren Kec Pilangkenceng
+BD276                          up             up       01000189986 IPVPN Bapenda Provinsi Jatim Bank Jatim Karangjati Ngawi
+BD301                          up             up       04000344539 IIX Indomarco (JOMBANG)(TDQQ)(MEJAYAN CARUBAN)
+BD302                          up             up       01000361072 IPVPN PLN UID Jatim SPKLU SC Rest Area 626A Madiun
+BD354                          up             up       NMS Eksternal Alarm Up Caruban
+BD376                          up             up       01000188110 IPVPN PLN UID JATIM SPKLU PLN REST AREA 626 B [NMS 172.28.70.251/28]
+BD404                          up             up       01000319690 IPVPN PT. Bank Mandiri KCP MADIUN CARUBAN, Jl. Ahmad Yani No.43 RT.014, RW. 004, Kel. Krajan, Kec. Mejayan [172.26.141.170/29]
+BD501                          up             up       01000109845 IPVPN Sumber Alfaria Trjaya O592 A. YANI_CARUBAN MDN/F [ACAM]
+BD511                          down           down     NMS EA GI Golang PLC (172.30.53.10/29) 
+BD722                          up             up       01000361073 IPVPN PLN UID SPKLU SC Rest Area 626B Madiun Jl.Raya Saradan No.16 [NMS 172.28.70.251/28]
+BD911                          up             up       111205023496 IPVPN Sumber Alfaria Trijaya DC MADIUN, Jl. Raya Madiun - Nganjuk
+BD1132                         up             up       NMS MS
+BD1134                         up             up       NMS Retail 
+Lo0                            up             up       
+Tu2617                         up             down     01000301082
+Vi4001                         down           down     
+pw100001                       up             up       
+pw100002                       up             up       
+pw100003                       up             up       
+pw100004                       up             up       
+pw100005                       up             up       
+pw100006                       up             up       
+pw100007                       up             up       
+pw100008                       up             up       
+pw100009                       up             up       
+pw100010                       up             up       
+pw100011                       up             up       
+pw100012                       up             up       
+pw100013                       up             up       
+pw100014                       up             up       
+pw100015                       up             up       
+pw100016                       up             up       
+pw100017                       up             up       
+pw100018                       up             up       
+pw100019                       up             up       
+pw100020                       up             up       
+pw100021                       up             up       
+pw100022                       up             up       
+pw100023                       up             up       
+pw100024                       up             up       
+pw100025                       up             up       
+pw100026                       up             up       
+pw100027                       up             up       
+pw100028                       up             up       
+pw100029                       up             up       
+pw100032                       up             up       
+pw100033                       up             up       
+pw100034                       up             up       
+pw100035                       up             up       
+pw100036                       up             up       
+pw100037                       up             up       
+pw100038                       up             up       
+pw100039                       up             up       
+pw100040                       up             up       
+pw100041                       up             up       
+pw100042                       up             up       
+pw100043                       up             up       
+pw100044                       up             up       
+pw100045                       up             up       
+pw100046                       up             up       
+pw100047                       up             up       
+pw100048                       up             up       
+pw100049                       up             up       
+pw100050                       up             up       
+pw100051                       up             up       
+pw100052                       up             up       
+pw100053                       up             up       
+pw100054                       up             up       
+pw100055                       up             up       
+pw100056                       up             up       
+pw100057                       up             up       
+pw100058                       up             up       
+pw100059                       up             up       
+pw100060                       up             up       
+pw100062                       up             up       
+pw100063                       up             up       
+pw100064                       up             up       
+pw100065                       up             up       
+pw100066                       up             up       
+pw100067                       up             up       
+pw100070                       up             up       
+pw100071                       up             up       
+pw100072                       up             up       
+pw100073                       up             up       
+pw100074                       up             up       
+pw100075                       up             up       
+pw100076                       up             up       
+pw100077                       up             up       
+pw100078                       up             up       
+JATIM-UPJ.CARUBAN-ASR920-UPE-01#

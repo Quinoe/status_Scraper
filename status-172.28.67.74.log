@@ -1,0 +1,60 @@
+
+************************************************************
+* THIS SYSTEM IS THE PROPERTY OF PT INDONESIA COMNETS PLUS *
+*              Maintenance Partner: niagamas               *
+*              Email: info@niagamas-setia.com              *
+************************************************************
+JATIM-MINI.ODC.ULP.MAGETAN-S2936F-CPE-01#show interface brief
+Port    Description           Status    Vlan        Duplex   Speed    Type
+g0/1    NMS Eksternal Alarm ULP Magetan Mini ODC [172.30.51.154/29]
+                              up        711         full     100Mb    Giga-TX          
+g0/2                          down      1           auto     auto     Giga-TX          
+g0/3                          down      1           auto     auto     Giga-TX          
+g0/4                          down      1           auto     auto     Giga-TX          
+g0/5                          down      1           auto     auto     Giga-TX          
+g0/6                          down      1           auto     auto     Giga-TX          
+g0/7                          down      1           auto     auto     Giga-TX          
+g0/8                          down      1           auto     auto     Giga-TX          
+g0/9    01000149869 IPVPN Badan Pendapatan Daerah Prov Jatim Jl. Jend Sudirman Magetan[172.28.67.149/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/10                         shutdown  1           auto     auto     Giga-FX          
+g0/11                         shutdown  1           auto     auto     Giga-FX          
+g0/12                         shutdown  1           auto     auto     Giga-FX          
+g0/13   01000181089 Metro BSI KCP Magetan - Rempoa [172.28.67.154/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/14                         shutdown  1           auto     auto     Giga-FX          
+g0/15                         shutdown  1           auto     auto     Giga-FX          
+g0/16                         shutdown  1           auto     auto     Giga-FX          
+g0/17   Indikasi Port Rusak   down      Trunk(1)    auto     auto     Giga-FX          
+g0/18                         shutdown  Trunk(1)    auto     auto     Giga-FX          
+g0/19   04000306975 IBBC PT XL Axiata TBK Bank BNI - KCP Magetan, Jl. Jend. Sudirman No.158 Tambran,172.28.77.216/28
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/20   01000330839 Metro; 141202002614 Metro Poltekkes Surabaya Jl. Tripandita No.06 [172.28.77.222/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/21   141202002610 Metro PT. Iforte Solusi Infotek Poltekkes Surabaya Jl. S. Parman [172.28.87.162/29]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/22   04000362725 IIX Only Indomarco Prismatama Jombang F973 Parang Magetan Jl. Raya Parang - Poncol [NMS 172.28.87.163/29]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/23   111303013390 Internet BPJS Kesehatan Kabupaten Magetan [NMS 172.27.105.202/29][IP 124.158.172.72]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/24   141401001675 IBBC 500Mbps SMKN 1 Poncol Jl.Raya Genilangit Poncol [SW 172.27.101.114/30]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/25                         down      1           auto     auto     Giga-FX          
+g0/26                         down      1           auto     auto     Giga-FX          
+g0/27                         down      1           auto     auto     Giga-FX          
+g0/28                         down      1           auto     auto     Giga-FX          
+g0/29                         down      1           auto     auto     Giga-FX          
+g0/30                         down      1           auto     auto     Giga-FX          
+g0/31                         down      1           auto     auto     Giga-FX          
+g0/32                         down      1           auto     auto     Giga-FX          
+tg0/1   Trunk to JATIM-MINI.ODC.ULP.MAGETAN-ASR920.12SZ-UPE-01
+                              up        Trunk(1)    full     10000Mb  10Giga-FX-SFP    
+tg0/2                         down      1           full     10000Mb  10Giga-FX        
+tg0/3                         down      1           full     10000Mb  10Giga-FX        
+tg0/4                         down      1           full     10000Mb  10Giga-FX        
+v1                            up                    
+v2                            up                    
+v5                            down                  
+v14                           up                    
+n0                            up                    
+JATIM-MINI.ODC.ULP.MAGETAN-S2936F-CPE-01#

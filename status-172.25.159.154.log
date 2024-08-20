@@ -1,0 +1,70 @@
+
+************************************************************
+* THIS SYSTEM IS THE PROPERTY OF PT INDONESIA COMNETS PLUS *
+*              Maintenance Partner: niagamas               *
+*              Email: info@niagamas-setia.com              *
+************************************************************
+JATIM-UP3.BOJONEGORO-BD.S2936F-CPE-05#show interface brief
+Port    Description           Status    Vlan        Duplex   Speed    Type
+g0/1                          down      1           auto     auto     Giga-TX          
+g0/2                          down      1           auto     auto     Giga-TX          
+g0/3                          down      1           auto     auto     Giga-TX          
+g0/4                          down      1           auto     auto     Giga-TX          
+g0/5                          down      1           auto     auto     Giga-TX          
+g0/6                          down      1           auto     auto     Giga-TX          
+g0/7                          down      1           auto     auto     Giga-TX          
+g0/8                          down      1           auto     auto     Giga-TX          
+g0/9    04000358271 IBBC Sumber Arta Dsn. Tegalboro RT. 11 RW. 2, Pacing [NMS 172.27.2.232/27]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/10   518010008521 Iconnet Mujiharto Agung Saputra [NMS 172.28.70.195/28]
+                              down      Trunk(1)    auto     auto     Giga-FX          
+g0/11   04000313904;04000173411 Internet Broadband CV Bersemi Jl Raya PUK Balen (NMS 172.28.70.200/28)
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/12   010000028240163 IPVPN][0518010017415 Stroomnet 20] PLN Disjatim UPJ Bojonegoro [NMS 172.28.70.196/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/13   DESA MERGOASRI        up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/14                         shutdown  1           auto     auto     Giga-FX-SFP      
+g0/15   04000362733 IIX Only Indomarco Prismatama Jombang FYFM Jl. Ngasem Kab. Bojonegoro [NMS 172.27.2.234/27]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/16   141202002626 Metro P2MP PT Inti Data Telematika Stasiun MSFR, Jl. WR. Supratman No.3 [SW 172.27.101.14/30]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/17                         shutdown  1           auto     auto     Giga-FX          
+g0/18   04000141444 IIX Indomarco Prismatama (JOMBANG) (TXNT) Kanor Bojonegoro [NMS 172.28.66.71/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/19   01000127769 IPVPN BCA KCP Bojonegoro [NMS 172.26.143.28/29]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/20   04000127496 IIX Only Indomarco Prismatama (Jombang) (T7IO) (DIPONEGORO BOJONEGORO) [NMS 172.26.143.27/29
+                              down      Trunk(1)    auto     auto     Giga-FX          
+g0/21   [01000203087 IPVPN][04000349576 Inet] Pertamina EP Cepu Site JTB Jambaran Tiung Biru [NMS 172.28.80.20]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/22   #1T0QHR 04000131174,04000339294 IBB Media Indo Brsma-Jasaraharja [NMS : 172.26.143.30/29]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/23   141202002611 Metro PT. Iforte Solusi Infotek Poltekkes Surabaya [172.28.51.226/29]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/24   04000130631 Inet;04000177475 IBBC  Bend. SMAN 1 Soko[NMS 172.28.51.228/29]
+                              up        Trunk(1)    full     1000Mb   Giga-FX          
+g0/25   04000185962 Internet Corporate CV.Rayyan Mandiri Jl. Dusun Sawah Jawa Timur [172.28.70.201/28]
+                              down      Trunk(1)    auto     auto     Giga-FX          
+g0/26   04000134201 Inet BRoadband;04000134200 Metro Balai Desa Parangbatu Kec Parengan [172.28.51.230/29]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/27   04000134077 Inet Broadband;04000134076 Metro Balai Desa Cengkong Kec Parengan [172.28.66.66/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/28   04000135004 Inet BRoadband;01000134998 Metro Balai Desa Brangkal Kec Parengan [172.28.51.229/29]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/29   04000132739 Internet Broadband][01000132738 Metro] Balai Desa Sendangrejo Kec Parengan [MMS 172.28.66.67/28]
+                              up        Trunk(1)    full     1000Mb   Giga-FX-SFP      
+g0/30   04000202781 Internet PT Kebun Tebu Mas Jl. Raya Ponco - Bojonegoro, Bedrek [172.28.70.205/28]
+                              shutdown  Trunk(1)    auto     1000Mb   Giga-FX          
+g0/31                         shutdown  1           auto     auto     Giga-FX          
+g0/32   01000331847 Metro PT.Teknologi Abyakta Utama Jl.Raya Dander - RT.05 RW. 01,Sampang (Pindah NE8K Bojonegoro P.0/5/3)
+                              shutdown  Trunk(1)    auto     auto     Giga-FX          
+tg0/1                         down      1           full     10000Mb  10Giga-FX        
+tg0/2                         down      1           full     10000Mb  10Giga-FX-SFP    
+tg0/3                         down      1           full     10000Mb  10Giga-FX        
+tg0/4   Trunk to JATIM-UP3.BOJONEGORO-ASR920.12SZ-UPE-01_Te0/0/6
+                              up        Trunk(1)    full     10000Mb  10Giga-FX-SFP    
+v1                            up                    
+v13                           up                    
+v1995   Temporary             up                    
+n0                            up                    
+JATIM-UP3.BOJONEGORO-BD.S2936F-CPE-05#
